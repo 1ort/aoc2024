@@ -1,0 +1,2788 @@
+(10, 11, 13, 16, 15)
+tolerated wrong sign
+safe True
+(3, 6, 9, 10, 11, 12, 12)
+tolerated equal values
+safe True
+(43, 46, 49, 52, 54, 58)
+tolerated abs diff
+safe True
+(59, 60, 61, 63, 65, 68, 75)
+tolerated abs diff
+safe True
+(60, 62, 63, 65, 63, 66, 69, 71)
+tolerated wrong sign
+unsafe abs diff 69 65 False False
+(80, 83, 85, 88, 85, 87, 84)
+tolerated wrong sign
+unsafe wrong sign 87 88 True False
+(30, 31, 32, 31, 33, 33)
+tolerated wrong sign
+safe True
+(9, 11, 14, 12, 16)
+tolerated wrong sign
+safe True
+(38, 39, 40, 43, 42, 45, 50)
+tolerated wrong sign
+unsafe abs diff 50 43 False False
+(58, 61, 63, 63, 66)
+tolerated equal values
+safe True
+(15, 17, 18, 20, 20, 21, 23, 21)
+tolerated equal values
+safe True
+(17, 19, 22, 24, 25, 25, 28, 28)
+tolerated equal values
+safe True
+(60, 63, 66, 67, 67, 69, 73)
+tolerated equal values
+unsafe abs diff 73 67 False False
+(42, 44, 44, 45, 52)
+tolerated equal values
+unsafe abs diff 52 44 False False
+(22, 23, 27, 30, 32, 34)
+tolerated abs diff
+unsafe abs diff 30 23 False False
+(22, 23, 25, 26, 28, 31, 35, 33)
+tolerated abs diff
+safe True
+(11, 14, 16, 19, 22, 26, 26)
+tolerated abs diff
+unsafe abs diff 26 22 False False
+(38, 41, 44, 48, 52)
+tolerated abs diff
+unsafe abs diff 52 44 False False
+(15, 17, 21, 24, 26, 33)
+tolerated abs diff
+unsafe abs diff 24 17 False False
+(50, 51, 54, 61, 62, 65, 68)
+tolerated abs diff
+unsafe abs diff 62 54 False False
+(37, 40, 42, 44, 49, 50, 47)
+tolerated abs diff
+unsafe abs diff 50 44 False False
+(6, 7, 8, 14, 14)
+tolerated abs diff
+unsafe abs diff 14 8 False False
+(17, 20, 25, 27, 31)
+tolerated abs diff
+unsafe abs diff 27 20 False False
+(68, 69, 70, 73, 76, 81, 87)
+tolerated abs diff
+unsafe abs diff 87 76 False False
+(83, 81, 82, 83, 85, 87, 90, 92)
+tolerated wrong sign
+unsafe wrong sign 83 81 False True
+(52, 51, 54, 56, 58, 57)
+tolerated wrong sign
+unsafe wrong sign 56 51 False True
+(93, 90, 91, 92, 92)
+tolerated wrong sign
+unsafe wrong sign 92 90 False True
+(12, 9, 10, 12, 14, 15, 16, 20)
+tolerated wrong sign
+unsafe wrong sign 12 9 False True
+(26, 24, 26, 27, 33)
+tolerated wrong sign
+unsafe wrong sign 27 24 False True
+(17, 15, 14, 17, 19)
+tolerated wrong sign
+unsafe wrong sign 19 14 False True
+(99, 96, 97, 96, 97, 99, 98)
+tolerated wrong sign
+unsafe same level 96 96 False True
+(9, 7, 5, 8, 8)
+tolerated wrong sign
+unsafe wrong sign 8 5 False True
+(59, 58, 61, 63, 62, 64, 68)
+tolerated wrong sign
+unsafe wrong sign 63 58 False True
+(24, 23, 25, 28, 26, 28, 35)
+tolerated wrong sign
+unsafe wrong sign 28 23 False True
+(93, 90, 92, 94, 94, 95)
+tolerated wrong sign
+unsafe wrong sign 94 90 False True
+(72, 69, 72, 73, 76, 77, 77, 75)
+tolerated wrong sign
+unsafe wrong sign 73 69 False True
+(46, 45, 47, 47, 49, 49)
+tolerated wrong sign
+unsafe wrong sign 47 45 False True
+(61, 60, 63, 64, 64, 66, 70)
+tolerated wrong sign
+unsafe wrong sign 64 60 False True
+(35, 32, 35, 36, 37, 37, 40, 47)
+tolerated wrong sign
+unsafe wrong sign 36 32 False True
+(6, 3, 6, 9, 13, 15, 16)
+tolerated wrong sign
+unsafe wrong sign 9 3 False True
+(29, 28, 31, 33, 35, 36, 40, 38)
+tolerated wrong sign
+unsafe wrong sign 33 28 False True
+(22, 21, 25, 26, 26)
+tolerated wrong sign
+unsafe wrong sign 26 21 False True
+(51, 50, 51, 54, 58, 60, 64)
+tolerated wrong sign
+unsafe wrong sign 54 50 False True
+(83, 82, 86, 88, 95)
+tolerated wrong sign
+unsafe wrong sign 88 82 False True
+(79, 76, 83, 86, 89)
+tolerated wrong sign
+unsafe wrong sign 86 76 False True
+(19, 17, 23, 25, 26, 25)
+tolerated wrong sign
+unsafe wrong sign 25 17 False True
+(19, 18, 21, 28, 30, 31, 31)
+tolerated wrong sign
+unsafe wrong sign 28 18 False True
+(72, 70, 72, 73, 74, 77, 82, 86)
+tolerated wrong sign
+unsafe wrong sign 73 70 False True
+(40, 39, 40, 47, 53)
+tolerated wrong sign
+unsafe wrong sign 47 39 False True
+(7, 7, 9, 12, 15, 18, 19)
+tolerated equal values
+unsafe abs diff 12 7 False None
+(57, 57, 59, 62, 63, 65, 63)
+tolerated equal values
+unsafe abs diff 62 57 False None
+(57, 57, 59, 62, 65, 66, 66)
+tolerated equal values
+unsafe abs diff 62 57 False None
+(26, 26, 29, 31, 33, 34, 38)
+tolerated equal values
+unsafe abs diff 31 26 False None
+(44, 44, 47, 50, 52, 59)
+tolerated equal values
+unsafe abs diff 50 44 False None
+(19, 19, 21, 20, 22, 25, 27)
+tolerated equal values
+unsafe abs diff 25 19 False None
+(76, 76, 79, 77, 74)
+tolerated equal values
+safe True
+(61, 61, 64, 63, 65, 65)
+tolerated equal values
+unsafe abs diff 65 61 False None
+(80, 80, 81, 83, 85, 83, 87)
+tolerated equal values
+unsafe abs diff 85 80 False None
+(63, 63, 66, 67, 65, 71)
+tolerated equal values
+unsafe abs diff 67 63 False None
+(48, 48, 48, 50, 51, 53, 56, 58)
+tolerated equal values
+unsafe same level 48 48 False None
+(17, 17, 17, 18, 17)
+tolerated equal values
+unsafe same level 17 17 False None
+(66, 66, 68, 68, 68)
+tolerated equal values
+safe True
+(78, 78, 79, 79, 83)
+tolerated equal values
+unsafe abs diff 83 78 False None
+(1, 1, 3, 4, 7, 8, 8, 13)
+tolerated equal values
+unsafe abs diff 7 1 False None
+(14, 14, 18, 20, 21)
+tolerated equal values
+unsafe abs diff 18 14 False None
+(22, 22, 25, 27, 31, 28)
+tolerated equal values
+unsafe abs diff 27 22 False None
+(32, 32, 34, 38, 38)
+tolerated equal values
+unsafe abs diff 38 32 False None
+(49, 49, 51, 52, 54, 56, 60, 64)
+tolerated equal values
+unsafe abs diff 54 49 False None
+(85, 85, 89, 91, 93, 94, 99)
+tolerated equal values
+unsafe abs diff 89 85 False None
+(28, 28, 29, 30, 35, 38, 39)
+tolerated equal values
+unsafe abs diff 35 28 False None
+(10, 10, 11, 18, 20, 22, 25, 24)
+tolerated equal values
+unsafe abs diff 18 10 False None
+(87, 87, 90, 96, 96)
+tolerated equal values
+unsafe abs diff 96 87 False None
+(47, 47, 48, 51, 58, 62)
+tolerated equal values
+unsafe abs diff 51 47 False None
+(7, 7, 8, 9, 11, 12, 18, 25)
+tolerated equal values
+unsafe abs diff 11 7 False None
+(70, 74, 75, 77, 79, 82)
+tolerated abs diff
+unsafe abs diff 75 70 False None
+(27, 31, 32, 33, 34, 35, 37, 34)
+tolerated abs diff
+unsafe abs diff 32 27 False None
+(45, 49, 52, 55, 57, 60, 62, 62)
+tolerated abs diff
+unsafe abs diff 52 45 False None
+(39, 43, 44, 47, 50, 51, 55)
+tolerated abs diff
+unsafe abs diff 44 39 False None
+(42, 46, 49, 50, 53, 54, 59)
+tolerated abs diff
+unsafe abs diff 49 42 False None
+(5, 9, 12, 10, 12)
+tolerated abs diff
+unsafe abs diff 12 5 False None
+(69, 73, 74, 73, 74, 75, 72)
+tolerated abs diff
+unsafe abs diff 74 69 False None
+(76, 80, 82, 84, 81, 84, 84)
+tolerated abs diff
+unsafe abs diff 82 76 False None
+(29, 33, 31, 33, 35, 39)
+tolerated abs diff
+unsafe abs diff 33 29 False None
+(49, 53, 54, 55, 56, 57, 54, 59)
+tolerated abs diff
+unsafe abs diff 54 49 False None
+(42, 46, 46, 47, 50, 52)
+tolerated abs diff
+unsafe abs diff 46 42 False None
+(65, 69, 69, 72, 70)
+tolerated abs diff
+unsafe abs diff 69 65 False None
+(72, 76, 76, 78, 80, 82, 83, 83)
+tolerated abs diff
+unsafe abs diff 76 72 False None
+(45, 49, 52, 53, 53, 57)
+tolerated abs diff
+unsafe abs diff 52 45 False None
+(37, 41, 42, 45, 45, 50)
+tolerated abs diff
+unsafe abs diff 42 37 False None
+(56, 60, 62, 63, 67, 68)
+tolerated abs diff
+unsafe abs diff 62 56 False None
+(35, 39, 40, 43, 46, 49, 53, 51)
+tolerated abs diff
+unsafe abs diff 40 35 False None
+(7, 11, 15, 17, 20, 21, 24, 24)
+tolerated abs diff
+unsafe abs diff 15 7 False None
+(2, 6, 7, 9, 13, 17)
+tolerated abs diff
+unsafe abs diff 7 2 False None
+(43, 47, 50, 52, 56, 59, 64)
+tolerated abs diff
+unsafe abs diff 50 43 False None
+(12, 16, 19, 22, 28, 30, 33)
+tolerated abs diff
+unsafe abs diff 19 12 False None
+(43, 47, 48, 53, 54, 57, 55)
+tolerated abs diff
+unsafe abs diff 48 43 False None
+(83, 87, 88, 95, 95)
+tolerated abs diff
+unsafe abs diff 88 83 False None
+(57, 61, 63, 64, 66, 73, 75, 79)
+tolerated abs diff
+unsafe abs diff 63 57 False None
+(57, 61, 64, 69, 71, 76)
+tolerated abs diff
+unsafe abs diff 64 57 False None
+(86, 93, 95, 96, 97, 99)
+tolerated abs diff
+unsafe abs diff 95 86 False None
+(30, 35, 37, 39, 38)
+tolerated abs diff
+unsafe abs diff 37 30 False None
+(11, 17, 19, 20, 20)
+tolerated abs diff
+unsafe abs diff 19 11 False None
+(20, 26, 29, 32, 36)
+tolerated abs diff
+unsafe abs diff 29 20 False None
+(68, 73, 74, 77, 80, 87)
+tolerated abs diff
+unsafe abs diff 74 68 False None
+(37, 42, 44, 43, 46, 49, 50, 51)
+tolerated abs diff
+unsafe abs diff 44 37 False None
+(48, 55, 58, 56, 57, 58, 57)
+tolerated abs diff
+unsafe abs diff 58 48 False None
+(36, 42, 39, 42, 43, 44, 44)
+tolerated abs diff
+unsafe abs diff 42 36 False None
+(20, 25, 28, 25, 27, 29, 31, 35)
+tolerated abs diff
+unsafe abs diff 28 20 False None
+(14, 20, 23, 21, 22, 23, 25, 32)
+tolerated abs diff
+unsafe abs diff 23 14 False None
+(77, 82, 83, 83, 84, 86, 88, 91)
+tolerated abs diff
+unsafe abs diff 83 77 False None
+(30, 36, 37, 40, 40, 42, 43, 42)
+tolerated abs diff
+unsafe abs diff 37 30 False None
+(15, 21, 22, 25, 27, 27, 28, 28)
+tolerated abs diff
+unsafe abs diff 22 15 False None
+(46, 52, 55, 55, 56, 58, 62)
+tolerated abs diff
+unsafe abs diff 55 46 False None
+(15, 22, 23, 23, 24, 27, 34)
+tolerated abs diff
+unsafe abs diff 23 15 False None
+(22, 29, 30, 34, 37)
+tolerated abs diff
+unsafe abs diff 30 22 False None
+(5, 11, 14, 18, 20, 18)
+tolerated abs diff
+unsafe abs diff 14 5 False None
+(7, 12, 16, 18, 21, 22, 22)
+tolerated abs diff
+unsafe abs diff 16 7 False None
+(39, 45, 47, 51, 54, 56, 58, 62)
+tolerated abs diff
+unsafe abs diff 47 39 False None
+(57, 63, 67, 70, 71, 76)
+tolerated abs diff
+unsafe abs diff 67 57 False None
+(72, 79, 84, 86, 87, 90)
+tolerated abs diff
+unsafe abs diff 84 72 False None
+(80, 85, 92, 93, 96, 93)
+tolerated abs diff
+unsafe abs diff 92 80 False None
+(72, 78, 83, 84, 84)
+tolerated abs diff
+unsafe abs diff 83 72 False None
+(46, 52, 55, 57, 58, 64, 68)
+tolerated abs diff
+unsafe abs diff 55 46 False None
+(69, 75, 78, 80, 87, 93)
+tolerated abs diff
+unsafe abs diff 78 69 False None
+(89, 88, 85, 82, 80, 77, 74, 75)
+tolerated wrong sign
+safe True
+(14, 13, 11, 9, 8, 5, 2, 2)
+tolerated equal values
+safe True
+(93, 91, 88, 86, 83, 79)
+tolerated abs diff
+safe True
+(39, 37, 35, 34, 32, 30, 28, 21)
+tolerated abs diff
+safe True
+(52, 51, 52, 49, 47, 45)
+tolerated wrong sign
+unsafe abs diff 47 51 True True
+(96, 95, 94, 93, 90, 88, 91, 93)
+tolerated wrong sign
+unsafe wrong sign 93 88 False True
+(35, 34, 36, 35, 34, 33, 33)
+tolerated wrong sign
+unsafe wrong sign 35 34 False True
+(39, 37, 38, 37, 34, 32, 31, 27)
+tolerated wrong sign
+unsafe same level 37 37 False True
+(24, 23, 24, 22, 16)
+tolerated wrong sign
+unsafe abs diff 16 23 True True
+(60, 57, 57, 54, 53, 52, 50, 48)
+tolerated equal values
+unsafe abs diff 53 57 True True
+(36, 35, 34, 33, 33, 32, 31, 34)
+tolerated equal values
+unsafe wrong sign 34 33 False True
+(76, 74, 71, 71, 71)
+tolerated equal values
+unsafe same level 71 71 False True
+(32, 29, 28, 26, 23, 23, 19)
+tolerated equal values
+unsafe abs diff 19 23 True True
+(91, 88, 86, 86, 83, 77)
+tolerated equal values
+unsafe abs diff 77 86 True True
+(42, 41, 39, 35, 33)
+tolerated abs diff
+unsafe abs diff 33 39 True True
+(27, 24, 22, 18, 19)
+tolerated abs diff
+safe True
+(19, 16, 15, 13, 10, 6, 6)
+tolerated abs diff
+unsafe abs diff 6 10 True True
+(50, 49, 45, 43, 41, 38, 34)
+tolerated abs diff
+unsafe abs diff 43 49 True True
+(48, 46, 45, 41, 34)
+tolerated abs diff
+unsafe abs diff 34 45 True True
+(83, 80, 78, 77, 71, 68)
+tolerated abs diff
+unsafe abs diff 68 77 True True
+(46, 44, 38, 37, 39)
+tolerated abs diff
+unsafe abs diff 37 44 True True
+(39, 38, 37, 31, 29, 27, 27)
+tolerated abs diff
+unsafe abs diff 29 37 True True
+(21, 19, 18, 16, 15, 9, 5)
+tolerated abs diff
+unsafe abs diff 5 15 True True
+(81, 79, 78, 71, 69, 66, 63, 56)
+tolerated abs diff
+unsafe abs diff 69 78 True True
+(69, 71, 68, 67, 66, 65)
+tolerated wrong sign
+unsafe wrong sign 67 71 True False
+(11, 12, 11, 10, 7, 10)
+tolerated wrong sign
+unsafe wrong sign 10 12 True False
+(83, 84, 83, 81, 78, 77, 75, 75)
+tolerated wrong sign
+unsafe wrong sign 81 84 True False
+(19, 20, 18, 15, 14, 12, 11, 7)
+tolerated wrong sign
+unsafe wrong sign 15 20 True False
+(80, 81, 80, 77, 75, 69)
+tolerated wrong sign
+unsafe wrong sign 77 81 True False
+(17, 19, 20, 17, 16, 15)
+tolerated wrong sign
+unsafe wrong sign 16 20 True False
+(45, 48, 47, 44, 41, 44, 41, 42)
+tolerated wrong sign
+unsafe wrong sign 44 48 True False
+(40, 43, 41, 44, 44)
+tolerated wrong sign
+safe True
+(56, 57, 59, 57, 53)
+tolerated wrong sign
+unsafe wrong sign 53 59 True False
+(93, 96, 99, 96, 93, 91, 88, 83)
+tolerated wrong sign
+unsafe wrong sign 93 99 True False
+(79, 80, 78, 75, 73, 73, 72)
+tolerated wrong sign
+unsafe wrong sign 75 80 True False
+(4, 7, 4, 4, 3, 4)
+tolerated wrong sign
+unsafe wrong sign 4 7 True False
+(65, 66, 65, 65, 62, 60, 58, 58)
+tolerated wrong sign
+unsafe wrong sign 65 66 True False
+(43, 45, 44, 44, 40)
+tolerated wrong sign
+unsafe wrong sign 44 45 True False
+(81, 83, 82, 82, 81, 76)
+tolerated wrong sign
+unsafe wrong sign 82 83 True False
+(92, 95, 91, 89, 88, 87)
+tolerated wrong sign
+unsafe wrong sign 89 95 True False
+(30, 31, 27, 24, 26)
+tolerated wrong sign
+unsafe wrong sign 24 31 True False
+(20, 22, 21, 18, 15, 11, 11)
+tolerated wrong sign
+unsafe wrong sign 18 22 True False
+(31, 32, 31, 27, 26, 24, 21, 17)
+tolerated wrong sign
+unsafe wrong sign 27 32 True False
+(43, 46, 45, 44, 42, 40, 36, 31)
+tolerated wrong sign
+unsafe wrong sign 44 46 True False
+(47, 50, 48, 47, 46, 40, 37, 36)
+tolerated wrong sign
+unsafe wrong sign 47 50 True False
+(23, 26, 24, 22, 16, 15, 12, 13)
+tolerated wrong sign
+unsafe wrong sign 22 26 True False
+(86, 88, 86, 84, 81, 80, 75, 75)
+tolerated wrong sign
+unsafe wrong sign 84 88 True False
+(88, 90, 88, 87, 82, 80, 76)
+tolerated wrong sign
+unsafe wrong sign 87 90 True False
+(83, 85, 80, 77, 75, 70)
+tolerated wrong sign
+unsafe wrong sign 77 85 True False
+(13, 13, 12, 10, 8, 5, 3, 1)
+tolerated equal values
+unsafe abs diff 8 13 True None
+(48, 48, 46, 44, 41, 43)
+tolerated equal values
+unsafe abs diff 44 48 True None
+(86, 86, 83, 81, 78, 78)
+tolerated equal values
+unsafe abs diff 81 86 True None
+(82, 82, 81, 80, 77, 73)
+tolerated equal values
+unsafe abs diff 77 82 True None
+(23, 23, 20, 19, 18, 16, 14, 7)
+tolerated equal values
+unsafe abs diff 19 23 True None
+(76, 76, 75, 73, 71, 73, 71)
+tolerated equal values
+unsafe abs diff 71 76 True None
+(41, 41, 39, 38, 35, 37, 39)
+tolerated equal values
+unsafe abs diff 35 41 True None
+(98, 98, 96, 94, 92, 93, 93)
+tolerated equal values
+unsafe abs diff 94 98 True None
+(49, 49, 48, 51, 47)
+tolerated equal values
+safe True
+(79, 79, 81, 80, 77, 75, 72, 67)
+tolerated equal values
+unsafe abs diff 75 79 True None
+(37, 37, 36, 35, 35, 32)
+tolerated equal values
+unsafe abs diff 32 37 True None
+(18, 18, 17, 15, 15, 13, 15)
+tolerated equal values
+unsafe abs diff 13 18 True None
+(6, 6, 6, 4, 4)
+tolerated equal values
+unsafe same level 6 6 False None
+(35, 35, 34, 33, 33, 29)
+tolerated equal values
+unsafe abs diff 29 35 True None
+(71, 71, 70, 70, 69, 67, 62)
+tolerated equal values
+unsafe abs diff 67 71 True None
+(91, 91, 89, 85, 82, 79, 77)
+tolerated equal values
+unsafe abs diff 85 91 True None
+(62, 62, 60, 56, 58)
+tolerated equal values
+unsafe abs diff 56 62 True None
+(16, 16, 14, 11, 7, 7)
+tolerated equal values
+unsafe abs diff 11 16 True None
+(88, 88, 86, 82, 78)
+tolerated equal values
+unsafe abs diff 82 88 True None
+(88, 88, 86, 85, 81, 78, 73)
+tolerated equal values
+unsafe abs diff 81 88 True None
+(21, 21, 19, 18, 11, 8)
+tolerated equal values
+unsafe abs diff 11 21 True None
+(12, 12, 6, 4, 6)
+tolerated equal values
+unsafe abs diff 6 12 True None
+(79, 79, 74, 71, 71)
+tolerated equal values
+unsafe abs diff 74 79 True None
+(65, 65, 60, 59, 55)
+tolerated equal values
+unsafe abs diff 60 65 True None
+(45, 45, 43, 40, 38, 33, 28)
+tolerated equal values
+unsafe abs diff 40 45 True None
+(44, 40, 37, 36, 34, 33, 32, 31)
+tolerated abs diff
+unsafe abs diff 37 44 True None
+(15, 11, 8, 7, 9)
+tolerated abs diff
+unsafe abs diff 8 15 True None
+(83, 79, 77, 74, 74)
+tolerated abs diff
+unsafe abs diff 77 83 True None
+(68, 64, 62, 60, 59, 55)
+tolerated abs diff
+unsafe abs diff 62 68 True None
+(77, 73, 71, 68, 67, 64, 61, 55)
+tolerated abs diff
+unsafe abs diff 71 77 True None
+(56, 52, 50, 49, 47, 49, 48)
+tolerated abs diff
+unsafe abs diff 50 56 True None
+(74, 70, 67, 70, 68, 66, 68)
+tolerated abs diff
+unsafe abs diff 67 74 True None
+(56, 52, 54, 52, 49, 47, 47)
+tolerated abs diff
+unsafe abs diff 52 56 True None
+(31, 27, 25, 26, 23, 21, 20, 16)
+tolerated abs diff
+unsafe abs diff 25 31 True None
+(89, 85, 83, 86, 81)
+tolerated abs diff
+unsafe abs diff 83 89 True None
+(38, 34, 34, 31, 28, 26, 24)
+tolerated abs diff
+unsafe abs diff 34 38 True None
+(48, 44, 43, 40, 38, 38, 40)
+tolerated abs diff
+unsafe abs diff 43 48 True None
+(23, 19, 19, 17, 16, 15, 15)
+tolerated abs diff
+unsafe abs diff 19 23 True None
+(93, 89, 88, 87, 86, 86, 82)
+tolerated abs diff
+unsafe abs diff 88 93 True None
+(91, 87, 85, 85, 82, 77)
+tolerated abs diff
+unsafe abs diff 85 91 True None
+(58, 54, 50, 48, 46, 44, 41)
+tolerated abs diff
+unsafe abs diff 50 58 True None
+(90, 86, 82, 80, 77, 76, 77)
+tolerated abs diff
+unsafe abs diff 82 90 True None
+(83, 79, 77, 73, 73)
+tolerated abs diff
+unsafe abs diff 77 83 True None
+(52, 48, 47, 43, 39)
+tolerated abs diff
+unsafe abs diff 47 52 True None
+(38, 34, 30, 27, 21)
+tolerated abs diff
+unsafe abs diff 30 38 True None
+(98, 94, 93, 92, 85, 82)
+tolerated abs diff
+unsafe abs diff 93 98 True None
+(63, 59, 53, 51, 52)
+tolerated abs diff
+unsafe abs diff 53 63 True None
+(69, 65, 63, 61, 56, 55, 55)
+tolerated abs diff
+unsafe abs diff 63 69 True None
+(84, 80, 75, 74, 70)
+tolerated abs diff
+unsafe abs diff 75 84 True None
+(68, 64, 58, 55, 54, 49)
+tolerated abs diff
+unsafe abs diff 58 68 True None
+(28, 23, 22, 19, 17, 16)
+tolerated abs diff
+unsafe abs diff 22 28 True None
+(27, 20, 19, 16, 14, 17)
+tolerated abs diff
+unsafe abs diff 19 27 True None
+(78, 73, 72, 69, 66, 66)
+tolerated abs diff
+unsafe abs diff 72 78 True None
+(23, 18, 16, 13, 11, 8, 7, 3)
+tolerated abs diff
+unsafe abs diff 16 23 True None
+(29, 22, 19, 18, 15, 12, 10, 3)
+tolerated abs diff
+unsafe abs diff 19 29 True None
+(26, 21, 23, 21, 18, 15, 13, 12)
+tolerated abs diff
+unsafe abs diff 21 26 True None
+(48, 43, 44, 41, 38, 35, 36)
+tolerated abs diff
+unsafe abs diff 44 48 True None
+(20, 15, 12, 10, 7, 9, 9)
+tolerated abs diff
+unsafe abs diff 12 20 True None
+(37, 30, 28, 25, 23, 25, 21)
+tolerated abs diff
+unsafe abs diff 28 37 True None
+(24, 18, 19, 16, 14, 7)
+tolerated abs diff
+unsafe abs diff 19 24 True None
+(38, 31, 30, 30, 29, 26)
+tolerated abs diff
+unsafe abs diff 30 38 True None
+(11, 5, 5, 2, 4)
+tolerated abs diff
+unsafe abs diff 5 11 True None
+(74, 67, 64, 63, 62, 62, 60, 60)
+tolerated abs diff
+unsafe abs diff 64 74 True None
+(95, 90, 88, 87, 87, 84, 80)
+tolerated abs diff
+unsafe abs diff 88 95 True None
+(36, 29, 26, 25, 25, 22, 19, 13)
+tolerated abs diff
+unsafe abs diff 26 36 True None
+(70, 64, 60, 59, 57, 56)
+tolerated abs diff
+unsafe abs diff 60 70 True None
+(93, 87, 83, 80, 78, 77, 78)
+tolerated abs diff
+unsafe abs diff 83 93 True None
+(77, 72, 68, 65, 65)
+tolerated abs diff
+unsafe abs diff 68 77 True None
+(65, 58, 54, 53, 50, 48, 44)
+tolerated abs diff
+unsafe abs diff 54 65 True None
+(91, 84, 80, 77, 75, 74, 69)
+tolerated abs diff
+unsafe abs diff 80 91 True None
+(84, 77, 76, 71, 69, 68)
+tolerated abs diff
+unsafe abs diff 76 84 True None
+(74, 67, 65, 59, 61)
+tolerated abs diff
+unsafe abs diff 65 74 True None
+(58, 52, 50, 45, 45)
+tolerated abs diff
+unsafe abs diff 50 58 True None
+(49, 43, 41, 40, 34, 33, 31, 27)
+tolerated abs diff
+unsafe abs diff 41 49 True None
+(78, 71, 70, 63, 58)
+tolerated abs diff
+unsafe abs diff 70 78 True None
+(32, 33, 36, 39, 37)
+tolerated wrong sign
+safe True
+(29, 30, 32, 35, 36, 37, 38, 38)
+tolerated equal values
+safe True
+(5, 7, 9, 10, 13, 17)
+tolerated abs diff
+safe True
+(36, 37, 39, 41, 42, 44, 50)
+tolerated abs diff
+safe True
+(62, 64, 65, 66, 69, 68, 71)
+tolerated wrong sign
+safe True
+(27, 29, 26, 29, 31, 34, 32)
+tolerated wrong sign
+unsafe same level 29 29 False False
+(34, 37, 39, 40, 43, 41, 41)
+tolerated wrong sign
+unsafe wrong sign 41 43 True False
+(36, 39, 42, 43, 45, 44, 45, 49)
+tolerated wrong sign
+unsafe same level 45 45 False False
+(78, 80, 81, 80, 82, 83, 89)
+tolerated wrong sign
+unsafe abs diff 89 81 False False
+(7, 9, 12, 12, 13, 16, 18)
+tolerated equal values
+unsafe abs diff 16 12 False False
+(32, 35, 36, 36, 38, 35)
+tolerated equal values
+unsafe wrong sign 35 36 True False
+(10, 11, 11, 13, 13)
+tolerated equal values
+safe True
+(43, 44, 44, 46, 48, 52)
+tolerated equal values
+unsafe abs diff 48 44 False False
+(49, 51, 53, 55, 56, 56, 63)
+tolerated equal values
+unsafe abs diff 63 56 False False
+(14, 16, 18, 20, 24, 27, 28, 29)
+tolerated abs diff
+unsafe abs diff 27 20 False False
+(64, 65, 69, 70, 72, 73, 76, 73)
+tolerated abs diff
+unsafe abs diff 70 65 False False
+(63, 66, 69, 70, 72, 76, 76)
+tolerated abs diff
+unsafe abs diff 76 72 False False
+(33, 35, 39, 40, 41, 42, 46)
+tolerated abs diff
+unsafe abs diff 40 35 False False
+(13, 15, 18, 21, 25, 32)
+tolerated abs diff
+unsafe abs diff 32 21 False False
+(31, 33, 35, 36, 39, 44, 47)
+tolerated abs diff
+unsafe abs diff 47 39 False False
+(56, 57, 62, 65, 66, 69, 66)
+tolerated abs diff
+unsafe abs diff 65 57 False False
+(18, 21, 22, 23, 28, 28)
+tolerated abs diff
+unsafe abs diff 28 23 False False
+(67, 68, 69, 72, 78, 82)
+tolerated abs diff
+unsafe abs diff 82 72 False False
+(81, 83, 84, 89, 92, 99)
+tolerated abs diff
+unsafe abs diff 92 84 False False
+(54, 51, 54, 55, 57, 58)
+tolerated wrong sign
+unsafe wrong sign 55 51 False True
+(56, 54, 57, 59, 61, 62, 61)
+tolerated wrong sign
+unsafe wrong sign 59 54 False True
+(62, 61, 63, 66, 67, 68, 68)
+tolerated wrong sign
+unsafe wrong sign 66 61 False True
+(40, 37, 38, 40, 43, 46, 48, 52)
+tolerated wrong sign
+unsafe wrong sign 40 37 False True
+(37, 34, 37, 38, 39, 42, 45, 52)
+tolerated wrong sign
+unsafe wrong sign 38 34 False True
+(6, 4, 6, 9, 7, 8, 10)
+tolerated wrong sign
+unsafe wrong sign 9 4 False True
+(31, 30, 32, 31, 28)
+tolerated wrong sign
+unsafe wrong sign 31 30 False True
+(94, 92, 93, 96, 98, 97, 99, 99)
+tolerated wrong sign
+unsafe wrong sign 96 92 False True
+(70, 69, 72, 71, 75)
+tolerated wrong sign
+unsafe wrong sign 71 69 False True
+(18, 15, 17, 16, 23)
+tolerated wrong sign
+unsafe wrong sign 16 15 False True
+(75, 72, 72, 75, 78, 81)
+tolerated equal values
+unsafe wrong sign 75 72 False True
+(33, 30, 32, 32, 35, 36, 35)
+tolerated wrong sign
+unsafe wrong sign 32 30 False True
+(51, 50, 52, 53, 53, 53)
+tolerated wrong sign
+unsafe wrong sign 53 50 False True
+(53, 51, 54, 54, 58)
+tolerated wrong sign
+unsafe wrong sign 54 51 False True
+(37, 34, 34, 35, 38, 45)
+tolerated equal values
+unsafe wrong sign 35 34 False True
+(17, 14, 17, 21, 23, 24, 26)
+tolerated wrong sign
+unsafe wrong sign 21 14 False True
+(71, 69, 72, 74, 78, 80, 82, 80)
+tolerated wrong sign
+unsafe wrong sign 74 69 False True
+(15, 13, 17, 19, 19)
+tolerated wrong sign
+unsafe wrong sign 19 13 False True
+(80, 78, 80, 84, 86, 90)
+tolerated wrong sign
+unsafe wrong sign 84 78 False True
+(25, 22, 26, 29, 34)
+tolerated wrong sign
+unsafe wrong sign 29 22 False True
+(83, 82, 88, 89, 92, 95, 96)
+tolerated wrong sign
+unsafe wrong sign 89 82 False True
+(53, 51, 52, 53, 54, 60, 59)
+tolerated wrong sign
+unsafe wrong sign 53 51 False True
+(35, 34, 39, 40, 41, 41)
+tolerated wrong sign
+unsafe wrong sign 40 34 False True
+(65, 62, 67, 70, 73, 76, 79, 83)
+tolerated wrong sign
+unsafe wrong sign 70 62 False True
+(82, 80, 82, 83, 88, 91, 97)
+tolerated wrong sign
+unsafe wrong sign 83 80 False True
+(65, 65, 67, 69, 70, 73, 74, 75)
+tolerated equal values
+unsafe abs diff 69 65 False None
+(22, 22, 23, 25, 27, 26)
+tolerated equal values
+unsafe abs diff 27 22 False None
+(69, 69, 72, 75, 78, 81, 82, 82)
+tolerated equal values
+unsafe abs diff 75 69 False None
+(40, 40, 43, 44, 46, 49, 50, 54)
+tolerated equal values
+unsafe abs diff 44 40 False None
+(81, 81, 84, 87, 89, 96)
+tolerated equal values
+unsafe abs diff 87 81 False None
+(4, 4, 7, 4, 7, 10)
+tolerated equal values
+unsafe same level 4 4 False None
+(73, 73, 70, 73, 70)
+tolerated equal values
+unsafe same level 73 73 False None
+(86, 86, 87, 86, 86)
+tolerated equal values
+unsafe same level 86 86 False None
+(72, 72, 74, 73, 77)
+tolerated equal values
+unsafe abs diff 77 72 False None
+(7, 7, 9, 10, 7, 9, 11, 16)
+tolerated equal values
+unsafe same level 7 7 False None
+(54, 54, 57, 57, 58)
+tolerated equal values
+unsafe abs diff 58 54 False None
+(53, 53, 56, 57, 59, 62, 62, 59)
+tolerated equal values
+unsafe abs diff 57 53 False None
+(74, 74, 76, 76, 76)
+tolerated equal values
+safe True
+(80, 80, 82, 83, 83, 86, 90)
+tolerated equal values
+unsafe abs diff 86 80 False None
+(2, 2, 2, 4, 9)
+tolerated equal values
+unsafe same level 2 2 False None
+(88, 88, 90, 93, 97, 98, 99)
+tolerated equal values
+unsafe abs diff 93 88 False None
+(32, 32, 36, 37, 34)
+tolerated equal values
+unsafe abs diff 36 32 False None
+(72, 72, 74, 78, 78)
+tolerated equal values
+unsafe abs diff 78 72 False None
+(32, 32, 36, 37, 40, 41, 42, 46)
+tolerated equal values
+unsafe abs diff 36 32 False None
+(12, 12, 15, 19, 21, 26)
+tolerated equal values
+unsafe abs diff 19 12 False None
+(3, 3, 9, 10, 11, 13)
+tolerated equal values
+unsafe abs diff 9 3 False None
+(23, 23, 30, 32, 30)
+tolerated equal values
+unsafe abs diff 30 23 False None
+(58, 58, 65, 67, 69, 69)
+tolerated equal values
+unsafe abs diff 65 58 False None
+(39, 39, 42, 43, 49, 50, 51, 55)
+tolerated equal values
+unsafe abs diff 43 39 False None
+(9, 9, 10, 17, 19, 22, 27)
+tolerated equal values
+unsafe abs diff 17 9 False None
+(82, 86, 89, 92, 93, 96)
+tolerated abs diff
+unsafe abs diff 89 82 False None
+(34, 38, 40, 42, 44, 46, 45)
+tolerated abs diff
+unsafe abs diff 40 34 False None
+(22, 26, 28, 29, 29)
+tolerated abs diff
+unsafe abs diff 28 22 False None
+(52, 56, 59, 62, 65, 66, 70)
+tolerated abs diff
+unsafe abs diff 59 52 False None
+(61, 65, 68, 71, 74, 75, 77, 83)
+tolerated abs diff
+unsafe abs diff 68 61 False None
+(38, 42, 39, 41, 44, 47, 50)
+tolerated abs diff
+unsafe abs diff 44 38 False None
+(63, 67, 68, 70, 68, 71, 68)
+tolerated abs diff
+unsafe abs diff 68 63 False None
+(33, 37, 38, 36, 38, 38)
+tolerated abs diff
+unsafe abs diff 38 33 False None
+(3, 7, 10, 12, 11, 14, 18)
+tolerated abs diff
+unsafe abs diff 10 3 False None
+(21, 25, 27, 25, 27, 32)
+tolerated abs diff
+unsafe abs diff 27 21 False None
+(45, 49, 49, 50, 52, 55)
+tolerated abs diff
+unsafe abs diff 49 45 False None
+(27, 31, 33, 33, 34, 31)
+tolerated abs diff
+unsafe abs diff 33 27 False None
+(8, 12, 13, 13, 15, 17, 17)
+tolerated abs diff
+unsafe abs diff 13 8 False None
+(6, 10, 10, 11, 14, 16, 20)
+tolerated abs diff
+unsafe abs diff 10 6 False None
+(65, 69, 72, 72, 75, 76, 82)
+tolerated abs diff
+unsafe abs diff 72 65 False None
+(86, 90, 94, 96, 99)
+tolerated abs diff
+unsafe abs diff 94 86 False None
+(47, 51, 55, 57, 60, 62, 59)
+tolerated abs diff
+unsafe abs diff 55 47 False None
+(63, 67, 69, 72, 74, 78, 79, 79)
+tolerated abs diff
+unsafe abs diff 69 63 False None
+(13, 17, 18, 22, 23, 27)
+tolerated abs diff
+unsafe abs diff 18 13 False None
+(58, 62, 65, 66, 67, 71, 78)
+tolerated abs diff
+unsafe abs diff 65 58 False None
+(66, 70, 72, 74, 76, 78, 83, 84)
+tolerated abs diff
+unsafe abs diff 72 66 False None
+(27, 31, 32, 37, 40, 38)
+tolerated abs diff
+unsafe abs diff 32 27 False None
+(57, 61, 63, 68, 68)
+tolerated abs diff
+unsafe abs diff 63 57 False None
+(27, 31, 34, 36, 42, 43, 47)
+tolerated abs diff
+unsafe abs diff 34 27 False None
+(38, 42, 43, 44, 46, 49, 55, 60)
+tolerated abs diff
+unsafe abs diff 43 38 False None
+(4, 9, 11, 12, 14, 16)
+tolerated abs diff
+unsafe abs diff 11 4 False None
+(20, 26, 27, 29, 32, 30)
+tolerated abs diff
+unsafe abs diff 27 20 False None
+(75, 81, 84, 86, 87, 90, 90)
+tolerated abs diff
+unsafe abs diff 84 75 False None
+(16, 22, 23, 26, 30)
+tolerated abs diff
+unsafe abs diff 23 16 False None
+(9, 15, 16, 19, 22, 25, 28, 34)
+tolerated abs diff
+unsafe abs diff 16 9 False None
+(26, 33, 32, 35, 38)
+tolerated abs diff
+unsafe abs diff 32 26 False None
+(1, 8, 10, 12, 9, 6)
+tolerated abs diff
+unsafe abs diff 10 1 False None
+(6, 12, 15, 13, 14, 16, 19, 19)
+tolerated abs diff
+unsafe abs diff 15 6 False None
+(80, 85, 88, 89, 91, 93, 90, 94)
+tolerated abs diff
+unsafe abs diff 88 80 False None
+(59, 65, 68, 69, 67, 73)
+tolerated abs diff
+unsafe abs diff 68 59 False None
+(8, 14, 16, 18, 19, 21, 21, 24)
+tolerated abs diff
+unsafe abs diff 16 8 False None
+(85, 90, 91, 92, 92, 93, 92)
+tolerated abs diff
+unsafe abs diff 91 85 False None
+(32, 38, 38, 41, 43, 46, 47, 47)
+tolerated abs diff
+unsafe abs diff 38 32 False None
+(53, 60, 61, 62, 62, 64, 67, 71)
+tolerated abs diff
+unsafe abs diff 61 53 False None
+(67, 73, 75, 78, 78, 81, 88)
+tolerated abs diff
+unsafe abs diff 75 67 False None
+(61, 67, 70, 74, 77, 78, 79, 80)
+tolerated abs diff
+unsafe abs diff 70 61 False None
+(67, 74, 78, 79, 81, 80)
+tolerated abs diff
+unsafe abs diff 78 67 False None
+(24, 29, 31, 35, 38, 38)
+tolerated abs diff
+unsafe abs diff 31 24 False None
+(7, 12, 16, 19, 23)
+tolerated abs diff
+unsafe abs diff 16 7 False None
+(13, 19, 20, 24, 27, 28, 29, 35)
+tolerated abs diff
+unsafe abs diff 20 13 False None
+(53, 60, 63, 70, 72)
+tolerated abs diff
+unsafe abs diff 63 53 False None
+(69, 75, 78, 79, 86, 88, 86)
+tolerated abs diff
+unsafe abs diff 78 69 False None
+(3, 10, 12, 13, 20, 20)
+tolerated abs diff
+unsafe abs diff 12 3 False None
+(31, 36, 39, 41, 46, 50)
+tolerated abs diff
+unsafe abs diff 39 31 False None
+(64, 71, 77, 79, 82, 84, 90)
+tolerated abs diff
+unsafe abs diff 77 64 False None
+(83, 80, 77, 74, 75)
+tolerated wrong sign
+safe True
+(99, 97, 94, 92, 89, 86, 83, 83)
+tolerated equal values
+safe True
+(59, 57, 55, 53, 49)
+tolerated abs diff
+safe True
+(77, 75, 74, 73, 67)
+tolerated abs diff
+safe True
+(10, 8, 5, 4, 2, 4, 3, 1)
+tolerated wrong sign
+unsafe wrong sign 3 2 False True
+(37, 34, 33, 36, 35, 34, 36)
+tolerated wrong sign
+unsafe wrong sign 35 33 False True
+(55, 52, 51, 53, 53)
+tolerated wrong sign
+unsafe wrong sign 53 51 False True
+(30, 27, 24, 23, 24, 23, 21, 17)
+tolerated wrong sign
+unsafe same level 23 23 False True
+(84, 83, 86, 85, 78)
+tolerated wrong sign
+unsafe wrong sign 85 83 False True
+(36, 34, 33, 33, 31)
+tolerated equal values
+safe True
+(19, 16, 16, 14, 13, 14)
+tolerated equal values
+safe True
+(80, 78, 76, 76, 76)
+tolerated equal values
+unsafe same level 76 76 False True
+(70, 68, 66, 64, 64, 61, 60, 56)
+tolerated equal values
+unsafe abs diff 60 64 True True
+(84, 81, 80, 79, 79, 73)
+tolerated equal values
+unsafe abs diff 73 79 True True
+(93, 91, 88, 84, 83)
+tolerated abs diff
+unsafe abs diff 83 88 True True
+(63, 61, 57, 56, 53, 52, 50, 51)
+tolerated abs diff
+unsafe abs diff 56 61 True True
+(85, 84, 80, 77, 77)
+tolerated abs diff
+unsafe abs diff 77 84 True True
+(85, 84, 82, 81, 77, 74, 70)
+tolerated abs diff
+unsafe abs diff 74 81 True True
+(21, 20, 16, 15, 12, 9, 2)
+tolerated abs diff
+unsafe abs diff 15 20 True True
+(41, 39, 38, 32, 31, 28)
+tolerated abs diff
+unsafe abs diff 31 38 True True
+(82, 81, 80, 74, 76)
+tolerated abs diff
+unsafe abs diff 76 80 True True
+(64, 61, 55, 54, 53, 50, 50)
+tolerated abs diff
+unsafe abs diff 54 61 True True
+(39, 36, 31, 28, 26, 22)
+tolerated abs diff
+unsafe abs diff 28 36 True True
+(78, 75, 68, 65, 60)
+tolerated abs diff
+unsafe abs diff 65 75 True True
+(96, 97, 95, 92, 89, 88, 86, 84)
+tolerated wrong sign
+unsafe wrong sign 92 97 True False
+(97, 98, 96, 94, 97)
+tolerated wrong sign
+unsafe wrong sign 94 98 True False
+(86, 89, 87, 84, 84)
+tolerated wrong sign
+unsafe wrong sign 84 89 True False
+(58, 61, 58, 56, 52)
+tolerated wrong sign
+unsafe wrong sign 56 61 True False
+(72, 73, 72, 70, 69, 68, 67, 60)
+tolerated wrong sign
+unsafe wrong sign 70 73 True False
+(33, 34, 35, 32, 29, 28)
+tolerated wrong sign
+unsafe wrong sign 29 35 True False
+(62, 65, 63, 61, 60, 59, 61, 63)
+tolerated wrong sign
+unsafe wrong sign 61 65 True False
+(33, 36, 39, 36, 34, 31, 31)
+tolerated wrong sign
+unsafe wrong sign 34 39 True False
+(48, 50, 49, 52, 50, 46)
+tolerated wrong sign
+unsafe same level 50 50 False False
+(17, 20, 22, 20, 19, 12)
+tolerated wrong sign
+unsafe wrong sign 19 22 True False
+(65, 66, 65, 64, 64, 62, 59)
+tolerated wrong sign
+unsafe wrong sign 64 66 True False
+(84, 85, 84, 84, 85)
+tolerated wrong sign
+unsafe wrong sign 84 85 True False
+(31, 32, 31, 28, 26, 26, 26)
+tolerated wrong sign
+unsafe wrong sign 28 32 True False
+(63, 66, 64, 61, 61, 58, 57, 53)
+tolerated wrong sign
+unsafe wrong sign 61 66 True False
+(66, 69, 68, 66, 66, 60)
+tolerated wrong sign
+unsafe wrong sign 66 69 True False
+(20, 23, 19, 16, 15)
+tolerated wrong sign
+unsafe wrong sign 16 23 True False
+(85, 86, 83, 81, 77, 74, 75)
+tolerated wrong sign
+unsafe wrong sign 81 86 True False
+(49, 50, 48, 44, 44)
+tolerated wrong sign
+unsafe wrong sign 44 50 True False
+(54, 57, 53, 51, 47)
+tolerated wrong sign
+unsafe wrong sign 51 57 True False
+(45, 46, 42, 39, 38, 36, 29)
+tolerated wrong sign
+unsafe wrong sign 39 46 True False
+(29, 32, 30, 29, 24, 21, 18, 17)
+tolerated wrong sign
+unsafe wrong sign 29 32 True False
+(19, 22, 21, 16, 15, 13, 14)
+tolerated wrong sign
+unsafe wrong sign 16 22 True False
+(76, 77, 72, 71, 68, 65, 64, 64)
+tolerated wrong sign
+unsafe wrong sign 71 77 True False
+(86, 87, 85, 83, 77, 76, 72)
+tolerated wrong sign
+unsafe wrong sign 83 87 True False
+(62, 63, 61, 60, 57, 54, 47, 41)
+tolerated wrong sign
+unsafe wrong sign 60 63 True False
+(36, 36, 35, 33, 32, 30, 28, 25)
+tolerated equal values
+unsafe abs diff 32 36 True None
+(98, 98, 96, 93, 96)
+tolerated equal values
+unsafe abs diff 93 98 True None
+(72, 72, 71, 68, 67, 65, 62, 62)
+tolerated equal values
+unsafe abs diff 68 72 True None
+(29, 29, 26, 23, 21, 19, 17, 13)
+tolerated equal values
+unsafe abs diff 23 29 True None
+(41, 41, 39, 37, 36, 29)
+tolerated equal values
+unsafe abs diff 37 41 True None
+(36, 36, 33, 30, 27, 29, 28)
+tolerated equal values
+unsafe abs diff 30 36 True None
+(77, 77, 78, 75, 72, 71, 73)
+tolerated equal values
+unsafe abs diff 72 77 True None
+(56, 56, 53, 52, 49, 48, 50, 50)
+tolerated equal values
+unsafe abs diff 52 56 True None
+(75, 75, 77, 74, 70)
+tolerated equal values
+unsafe abs diff 70 75 True None
+(78, 78, 79, 77, 74, 73, 71, 66)
+tolerated equal values
+unsafe abs diff 74 78 True None
+(30, 30, 29, 26, 25, 22, 22, 19)
+tolerated equal values
+unsafe abs diff 26 30 True None
+(43, 43, 43, 41, 38, 36, 37)
+tolerated equal values
+unsafe same level 43 43 False None
+(18, 18, 18, 17, 16, 15, 13, 13)
+tolerated equal values
+unsafe same level 18 18 False None
+(55, 55, 52, 51, 48, 48, 44)
+tolerated equal values
+unsafe abs diff 51 55 True None
+(65, 65, 63, 63, 62, 60, 54)
+tolerated equal values
+unsafe abs diff 60 65 True None
+(58, 58, 54, 51, 50)
+tolerated equal values
+unsafe abs diff 54 58 True None
+(51, 51, 50, 46, 49)
+tolerated equal values
+unsafe abs diff 46 51 True None
+(63, 63, 62, 59, 57, 53, 53)
+tolerated equal values
+unsafe abs diff 59 63 True None
+(68, 68, 64, 61, 58, 55, 54, 50)
+tolerated equal values
+unsafe abs diff 64 68 True None
+(32, 32, 30, 27, 26, 22, 21, 15)
+tolerated equal values
+unsafe abs diff 27 32 True None
+(66, 66, 60, 57, 54, 51, 49, 47)
+tolerated equal values
+unsafe abs diff 60 66 True None
+(84, 84, 81, 78, 72, 75)
+tolerated equal values
+unsafe abs diff 78 84 True None
+(81, 81, 75, 74, 74)
+tolerated equal values
+unsafe abs diff 75 81 True None
+(49, 49, 46, 44, 42, 41, 35, 31)
+tolerated equal values
+unsafe abs diff 44 49 True None
+(41, 41, 39, 38, 32, 30, 23)
+tolerated equal values
+unsafe abs diff 32 41 True None
+(98, 94, 91, 88, 86, 85, 83)
+tolerated abs diff
+unsafe abs diff 91 98 True None
+(66, 62, 60, 58, 59)
+tolerated abs diff
+unsafe abs diff 60 66 True None
+(66, 62, 59, 58, 58)
+tolerated abs diff
+unsafe abs diff 59 66 True None
+(63, 59, 58, 55, 54, 53, 50, 46)
+tolerated abs diff
+unsafe abs diff 58 63 True None
+(69, 65, 62, 59, 58, 55, 48)
+tolerated abs diff
+unsafe abs diff 62 69 True None
+(37, 33, 36, 34, 31)
+tolerated abs diff
+unsafe abs diff 31 37 True None
+(53, 49, 48, 46, 44, 47, 49)
+tolerated abs diff
+unsafe abs diff 48 53 True None
+(97, 93, 92, 94, 91, 89, 86, 86)
+tolerated abs diff
+unsafe abs diff 92 97 True None
+(76, 72, 71, 70, 73, 72, 68)
+tolerated abs diff
+unsafe abs diff 71 76 True None
+(39, 35, 33, 31, 34, 27)
+tolerated abs diff
+unsafe abs diff 33 39 True None
+(70, 66, 65, 65, 64)
+tolerated abs diff
+unsafe abs diff 65 70 True None
+(89, 85, 84, 83, 82, 80, 80, 81)
+tolerated abs diff
+unsafe abs diff 84 89 True None
+(77, 73, 70, 68, 68, 68)
+tolerated abs diff
+unsafe abs diff 70 77 True None
+(66, 62, 59, 58, 58, 57, 53)
+tolerated abs diff
+unsafe abs diff 59 66 True None
+(43, 39, 36, 36, 33, 32, 25)
+tolerated abs diff
+unsafe abs diff 36 43 True None
+(79, 75, 72, 70, 66, 65)
+tolerated abs diff
+unsafe abs diff 72 79 True None
+(71, 67, 65, 62, 58, 56, 53, 55)
+tolerated abs diff
+unsafe abs diff 65 71 True None
+(82, 78, 75, 71, 71)
+tolerated abs diff
+unsafe abs diff 75 82 True None
+(40, 36, 32, 31, 29, 28, 27, 23)
+tolerated abs diff
+unsafe abs diff 32 40 True None
+(91, 87, 86, 83, 82, 78, 72)
+tolerated abs diff
+unsafe abs diff 86 91 True None
+(76, 72, 70, 69, 64, 63, 60, 57)
+tolerated abs diff
+unsafe abs diff 70 76 True None
+(69, 65, 60, 57, 59)
+tolerated abs diff
+unsafe abs diff 60 69 True None
+(24, 20, 18, 17, 14, 8, 8)
+tolerated abs diff
+unsafe abs diff 18 24 True None
+(43, 39, 37, 34, 32, 31, 24, 20)
+tolerated abs diff
+unsafe abs diff 37 43 True None
+(74, 70, 63, 62, 60, 54)
+tolerated abs diff
+unsafe abs diff 63 74 True None
+(21, 16, 13, 12, 11, 10, 8)
+tolerated abs diff
+unsafe abs diff 13 21 True None
+(79, 73, 72, 69, 66, 63, 60, 61)
+tolerated abs diff
+unsafe abs diff 72 79 True None
+(30, 25, 23, 21, 19, 19)
+tolerated abs diff
+unsafe abs diff 23 30 True None
+(63, 57, 55, 52, 49, 47, 46, 42)
+tolerated abs diff
+unsafe abs diff 55 63 True None
+(26, 19, 18, 17, 16, 14, 7)
+tolerated abs diff
+unsafe abs diff 18 26 True None
+(60, 54, 56, 53, 52, 49)
+tolerated abs diff
+unsafe abs diff 56 60 True None
+(42, 37, 36, 39, 38, 37, 35, 36)
+tolerated abs diff
+unsafe abs diff 36 42 True None
+(81, 76, 79, 77, 74, 74)
+tolerated abs diff
+unsafe abs diff 77 81 True None
+(27, 20, 19, 18, 15, 12, 15, 11)
+tolerated abs diff
+unsafe abs diff 19 27 True None
+(58, 53, 52, 53, 50, 44)
+tolerated abs diff
+unsafe abs diff 52 58 True None
+(17, 12, 10, 9, 8, 7, 7, 5)
+tolerated abs diff
+unsafe abs diff 10 17 True None
+(26, 21, 20, 20, 21)
+tolerated abs diff
+unsafe abs diff 20 26 True None
+(99, 93, 90, 87, 87, 84, 82, 82)
+tolerated abs diff
+unsafe abs diff 90 99 True None
+(31, 24, 21, 18, 15, 12, 12, 8)
+tolerated abs diff
+unsafe abs diff 21 31 True None
+(36, 31, 29, 27, 26, 26, 19)
+tolerated abs diff
+unsafe abs diff 29 36 True None
+(32, 27, 26, 22, 20, 18)
+tolerated abs diff
+unsafe abs diff 26 32 True None
+(75, 68, 64, 61, 59, 62)
+tolerated abs diff
+unsafe abs diff 64 75 True None
+(22, 15, 13, 9, 9)
+tolerated abs diff
+unsafe abs diff 13 22 True None
+(64, 58, 57, 53, 49)
+tolerated abs diff
+unsafe abs diff 57 64 True None
+(47, 42, 40, 36, 33, 30, 28, 23)
+tolerated abs diff
+unsafe abs diff 40 47 True None
+(19, 12, 10, 4, 3)
+tolerated abs diff
+unsafe abs diff 10 19 True None
+(20, 14, 11, 10, 9, 7, 1, 4)
+tolerated abs diff
+unsafe abs diff 11 20 True None
+(16, 10, 5, 4, 2, 2)
+tolerated abs diff
+unsafe abs diff 5 16 True None
+(88, 83, 78, 75, 71)
+tolerated abs diff
+unsafe abs diff 78 88 True None
+(98, 92, 87, 86, 83, 81, 75)
+tolerated abs diff
+unsafe abs diff 87 98 True None
+(70, 72, 74, 77, 75)
+tolerated wrong sign
+safe True
+(36, 38, 40, 43, 46, 46)
+tolerated equal values
+safe True
+(40, 42, 44, 45, 47, 48, 49, 53)
+tolerated abs diff
+safe True
+(73, 75, 77, 80, 82, 89)
+tolerated abs diff
+safe True
+(67, 69, 67, 68, 71)
+tolerated wrong sign
+unsafe wrong sign 68 69 True False
+(80, 83, 85, 87, 89, 87, 84)
+tolerated wrong sign
+unsafe wrong sign 84 89 True False
+(71, 73, 74, 71, 74, 74)
+tolerated wrong sign
+unsafe same level 74 74 False False
+(31, 34, 36, 33, 34, 35, 39)
+tolerated wrong sign
+unsafe wrong sign 34 36 True False
+(77, 80, 79, 82, 83, 84, 90)
+tolerated wrong sign
+unsafe abs diff 84 80 False False
+(19, 22, 25, 25, 27, 28)
+tolerated equal values
+safe True
+(74, 76, 77, 77, 78, 79, 82, 79)
+tolerated equal values
+unsafe abs diff 82 77 False False
+(91, 94, 94, 95, 95)
+tolerated equal values
+safe True
+(66, 69, 70, 71, 71, 72, 76)
+tolerated equal values
+unsafe abs diff 76 71 False False
+(44, 47, 49, 52, 52, 58)
+tolerated equal values
+unsafe abs diff 58 52 False False
+(4, 6, 7, 11, 14, 16, 18)
+tolerated abs diff
+unsafe abs diff 14 7 False False
+(80, 81, 85, 87, 89, 88)
+tolerated abs diff
+unsafe abs diff 87 81 False False
+(81, 84, 86, 90, 93, 93)
+tolerated abs diff
+unsafe abs diff 93 86 False False
+(5, 8, 10, 12, 14, 18, 22)
+tolerated abs diff
+unsafe abs diff 22 14 False False
+(15, 16, 20, 21, 26)
+tolerated abs diff
+unsafe abs diff 21 16 False False
+(16, 19, 24, 26, 27)
+tolerated abs diff
+unsafe abs diff 26 19 False False
+(81, 83, 86, 88, 93, 94, 91)
+tolerated abs diff
+unsafe abs diff 94 88 False False
+(61, 62, 63, 66, 71, 74, 74)
+tolerated abs diff
+unsafe abs diff 74 66 False False
+(13, 14, 16, 23, 27)
+tolerated abs diff
+unsafe abs diff 27 16 False False
+(46, 47, 53, 54, 57, 63)
+tolerated abs diff
+unsafe abs diff 54 47 False False
+(34, 33, 36, 38, 41, 43, 46, 48)
+tolerated wrong sign
+unsafe wrong sign 38 33 False True
+(50, 47, 49, 52, 55, 56, 58, 57)
+tolerated wrong sign
+unsafe wrong sign 52 47 False True
+(10, 9, 10, 12, 12)
+tolerated wrong sign
+unsafe wrong sign 12 9 False True
+(36, 33, 34, 35, 37, 39, 40, 44)
+tolerated wrong sign
+unsafe wrong sign 35 33 False True
+(68, 66, 67, 69, 71, 74, 80)
+tolerated wrong sign
+unsafe wrong sign 69 66 False True
+(83, 80, 81, 79, 80, 81)
+tolerated wrong sign
+unsafe same level 80 80 False True
+(78, 76, 78, 79, 78, 80, 83, 80)
+tolerated wrong sign
+unsafe wrong sign 79 76 False True
+(56, 53, 56, 54, 57, 57)
+tolerated wrong sign
+unsafe wrong sign 54 53 False True
+(31, 28, 29, 31, 30, 34)
+tolerated wrong sign
+unsafe wrong sign 31 28 False True
+(62, 59, 56, 58, 63)
+tolerated wrong sign
+unsafe wrong sign 63 56 False True
+(6, 5, 7, 7, 9)
+tolerated wrong sign
+unsafe wrong sign 7 5 False True
+(22, 19, 21, 23, 23, 24, 21)
+tolerated wrong sign
+unsafe wrong sign 23 19 False True
+(31, 28, 30, 33, 34, 36, 36, 36)
+tolerated wrong sign
+unsafe wrong sign 33 28 False True
+(65, 64, 65, 68, 68, 70, 71, 75)
+tolerated wrong sign
+unsafe wrong sign 68 64 False True
+(7, 6, 8, 11, 11, 12, 13, 18)
+tolerated wrong sign
+unsafe wrong sign 11 6 False True
+(60, 58, 59, 61, 63, 65, 69, 72)
+tolerated wrong sign
+unsafe wrong sign 61 58 False True
+(48, 46, 47, 49, 53, 51)
+tolerated wrong sign
+unsafe wrong sign 49 46 False True
+(78, 77, 81, 84, 86, 88, 88)
+tolerated wrong sign
+unsafe wrong sign 84 77 False True
+(15, 13, 15, 16, 19, 23, 27)
+tolerated wrong sign
+unsafe wrong sign 16 13 False True
+(48, 46, 50, 52, 54, 55, 58, 63)
+tolerated wrong sign
+unsafe wrong sign 52 46 False True
+(18, 16, 18, 19, 25, 27, 29)
+tolerated wrong sign
+unsafe wrong sign 19 16 False True
+(71, 68, 69, 72, 73, 80, 82, 80)
+tolerated wrong sign
+unsafe wrong sign 72 68 False True
+(68, 66, 68, 70, 77, 77)
+tolerated wrong sign
+unsafe wrong sign 70 66 False True
+(75, 74, 76, 79, 85, 86, 90)
+tolerated wrong sign
+unsafe wrong sign 79 74 False True
+(69, 67, 70, 72, 74, 81, 83, 89)
+tolerated wrong sign
+unsafe wrong sign 72 67 False True
+(66, 66, 67, 70, 72, 73)
+tolerated equal values
+unsafe abs diff 70 66 False None
+(6, 6, 9, 11, 10)
+tolerated equal values
+unsafe abs diff 11 6 False None
+(15, 15, 16, 19, 19)
+tolerated equal values
+unsafe abs diff 19 15 False None
+(53, 53, 54, 57, 58, 62)
+tolerated equal values
+unsafe abs diff 57 53 False None
+(79, 79, 82, 85, 91)
+tolerated equal values
+unsafe abs diff 85 79 False None
+(25, 25, 23, 25, 28, 29)
+tolerated equal values
+unsafe same level 25 25 False None
+(1, 1, 3, 1, 4, 1)
+tolerated equal values
+unsafe same level 1 1 False None
+(80, 80, 81, 82, 80, 82, 85, 85)
+tolerated equal values
+unsafe same level 80 80 False None
+(36, 36, 38, 41, 40, 41, 45)
+tolerated equal values
+unsafe abs diff 41 36 False None
+(8, 8, 10, 13, 16, 13, 16, 21)
+tolerated equal values
+unsafe abs diff 13 8 False None
+(7, 7, 7, 10, 12, 13, 15, 18)
+tolerated equal values
+unsafe same level 7 7 False None
+(39, 39, 41, 43, 43, 46, 48, 45)
+tolerated equal values
+unsafe abs diff 43 39 False None
+(10, 10, 13, 13, 14, 17, 17)
+tolerated equal values
+unsafe abs diff 14 10 False None
+(71, 71, 72, 74, 76, 76, 80)
+tolerated equal values
+unsafe abs diff 76 71 False None
+(53, 53, 56, 59, 59, 65)
+tolerated equal values
+unsafe abs diff 59 53 False None
+(19, 19, 23, 26, 28, 29, 32)
+tolerated equal values
+unsafe abs diff 23 19 False None
+(67, 67, 68, 69, 71, 75, 74)
+tolerated equal values
+unsafe abs diff 71 67 False None
+(62, 62, 65, 69, 71, 73, 74, 74)
+tolerated equal values
+unsafe abs diff 69 62 False None
+(42, 42, 46, 48, 49, 51, 55)
+tolerated equal values
+unsafe abs diff 46 42 False None
+(47, 47, 51, 53, 56, 58, 63)
+tolerated equal values
+unsafe abs diff 51 47 False None
+(54, 54, 61, 64, 65)
+tolerated equal values
+unsafe abs diff 61 54 False None
+(77, 77, 84, 85, 87, 84)
+tolerated equal values
+unsafe abs diff 84 77 False None
+(15, 15, 20, 23, 24, 25, 25)
+tolerated equal values
+unsafe abs diff 20 15 False None
+(87, 87, 94, 95, 99)
+tolerated equal values
+unsafe abs diff 94 87 False None
+(17, 17, 22, 24, 29)
+tolerated equal values
+unsafe abs diff 22 17 False None
+(42, 46, 47, 49, 51, 54, 55, 57)
+tolerated abs diff
+unsafe abs diff 47 42 False None
+(54, 58, 59, 62, 59)
+tolerated abs diff
+unsafe abs diff 59 54 False None
+(60, 64, 66, 67, 69, 71, 73, 73)
+tolerated abs diff
+unsafe abs diff 66 60 False None
+(6, 10, 11, 14, 15, 18, 22)
+tolerated abs diff
+unsafe abs diff 11 6 False None
+(46, 50, 52, 55, 58, 61, 68)
+tolerated abs diff
+unsafe abs diff 52 46 False None
+(13, 17, 20, 23, 22, 25, 28)
+tolerated abs diff
+unsafe abs diff 20 13 False None
+(35, 39, 40, 43, 46, 45, 44)
+tolerated abs diff
+unsafe abs diff 40 35 False None
+(24, 28, 31, 29, 32, 32)
+tolerated abs diff
+unsafe abs diff 31 24 False None
+(24, 28, 30, 31, 30, 33, 36, 40)
+tolerated abs diff
+unsafe abs diff 30 24 False None
+(75, 79, 80, 81, 78, 79, 85)
+tolerated abs diff
+unsafe abs diff 80 75 False None
+(23, 27, 27, 29, 30)
+tolerated abs diff
+unsafe abs diff 27 23 False None
+(47, 51, 52, 52, 53, 51)
+tolerated abs diff
+unsafe abs diff 52 47 False None
+(34, 38, 38, 41, 43, 44, 46, 46)
+tolerated abs diff
+unsafe abs diff 38 34 False None
+(61, 65, 66, 66, 70)
+tolerated abs diff
+unsafe abs diff 66 61 False None
+(86, 90, 91, 91, 97)
+tolerated abs diff
+unsafe abs diff 91 86 False None
+(5, 9, 11, 13, 15, 18, 22, 24)
+tolerated abs diff
+unsafe abs diff 11 5 False None
+(70, 74, 77, 81, 83, 81)
+tolerated abs diff
+unsafe abs diff 77 70 False None
+(5, 9, 12, 16, 19, 19)
+tolerated abs diff
+unsafe abs diff 12 5 False None
+(61, 65, 66, 70, 72, 75, 79)
+tolerated abs diff
+unsafe abs diff 66 61 False None
+(59, 63, 67, 70, 73, 78)
+tolerated abs diff
+unsafe abs diff 67 59 False None
+(12, 16, 18, 24, 27)
+tolerated abs diff
+unsafe abs diff 18 12 False None
+(19, 23, 25, 26, 28, 33, 36, 33)
+tolerated abs diff
+unsafe abs diff 25 19 False None
+(78, 82, 87, 89, 91, 91)
+tolerated abs diff
+unsafe abs diff 87 78 False None
+(76, 80, 83, 88, 92)
+tolerated abs diff
+unsafe abs diff 83 76 False None
+(8, 12, 14, 21, 28)
+tolerated abs diff
+unsafe abs diff 14 8 False None
+(24, 29, 30, 32, 33, 34, 36)
+tolerated abs diff
+unsafe abs diff 30 24 False None
+(51, 58, 60, 61, 62, 63, 61)
+tolerated abs diff
+unsafe abs diff 60 51 False None
+(38, 45, 47, 50, 50)
+tolerated abs diff
+unsafe abs diff 47 38 False None
+(57, 63, 64, 66, 67, 68, 72)
+tolerated abs diff
+unsafe abs diff 64 57 False None
+(6, 12, 14, 15, 18, 20, 26)
+tolerated abs diff
+unsafe abs diff 14 6 False None
+(5, 10, 9, 12, 14)
+tolerated abs diff
+unsafe abs diff 9 5 False None
+(50, 55, 52, 53, 51)
+tolerated abs diff
+safe True
+(16, 21, 18, 20, 23, 25, 25)
+tolerated abs diff
+unsafe abs diff 20 16 False None
+(9, 14, 11, 14, 18)
+tolerated abs diff
+unsafe abs diff 14 9 False None
+(72, 79, 80, 82, 80, 81, 82, 87)
+tolerated abs diff
+unsafe abs diff 80 72 False None
+(85, 91, 92, 92, 93, 94)
+tolerated abs diff
+unsafe abs diff 92 85 False None
+(85, 91, 91, 93, 92)
+tolerated abs diff
+unsafe abs diff 91 85 False None
+(3, 8, 10, 10, 11, 11)
+tolerated abs diff
+unsafe abs diff 10 3 False None
+(12, 19, 19, 21, 25)
+tolerated abs diff
+unsafe abs diff 19 12 False None
+(40, 47, 48, 51, 52, 54, 54, 61)
+tolerated abs diff
+unsafe abs diff 48 40 False None
+(78, 83, 84, 88, 90, 92, 93, 95)
+tolerated abs diff
+unsafe abs diff 84 78 False None
+(48, 54, 57, 61, 58)
+tolerated abs diff
+unsafe abs diff 57 48 False None
+(76, 81, 82, 85, 89, 89)
+tolerated abs diff
+unsafe abs diff 82 76 False None
+(56, 63, 64, 65, 68, 72, 76)
+tolerated abs diff
+unsafe abs diff 64 56 False None
+(64, 71, 72, 75, 76, 80, 85)
+tolerated abs diff
+unsafe abs diff 72 64 False None
+(38, 45, 50, 53, 54, 56)
+tolerated abs diff
+unsafe abs diff 50 38 False None
+(56, 61, 62, 67, 69, 70, 67)
+tolerated abs diff
+unsafe abs diff 62 56 False None
+(45, 51, 54, 59, 60, 62, 64, 64)
+tolerated abs diff
+unsafe abs diff 54 45 False None
+(2, 8, 11, 18, 19, 23)
+tolerated abs diff
+unsafe abs diff 11 2 False None
+(60, 67, 70, 71, 73, 80, 82, 89)
+tolerated abs diff
+unsafe abs diff 70 60 False None
+(65, 63, 61, 59, 60)
+tolerated wrong sign
+safe True
+(85, 82, 79, 76, 73, 71, 69, 69)
+tolerated equal values
+safe True
+(18, 17, 14, 11, 8, 6, 5, 1)
+tolerated abs diff
+safe True
+(20, 18, 16, 15, 13, 12, 7)
+tolerated abs diff
+safe True
+(61, 60, 58, 56, 53, 54, 51)
+tolerated wrong sign
+safe True
+(54, 51, 54, 52, 51, 52)
+tolerated wrong sign
+unsafe wrong sign 52 51 False True
+(14, 12, 11, 8, 11, 8, 7, 7)
+tolerated wrong sign
+unsafe same level 8 8 False True
+(81, 78, 77, 76, 78, 75, 72, 68)
+tolerated wrong sign
+unsafe abs diff 72 76 True True
+(17, 15, 13, 12, 15, 10)
+tolerated wrong sign
+safe True
+(44, 43, 41, 39, 39, 38, 37)
+tolerated equal values
+safe True
+(63, 61, 58, 57, 57, 55, 56)
+tolerated equal values
+safe True
+(82, 80, 79, 77, 75, 73, 73, 73)
+tolerated equal values
+unsafe same level 73 73 False True
+(98, 95, 92, 92, 88)
+tolerated equal values
+unsafe abs diff 88 92 True True
+(54, 52, 52, 51, 49, 46, 41)
+tolerated equal values
+unsafe abs diff 46 52 True True
+(16, 15, 14, 12, 8, 6, 5)
+tolerated abs diff
+unsafe abs diff 6 12 True True
+(44, 41, 37, 36, 37)
+tolerated abs diff
+unsafe abs diff 36 41 True True
+(39, 36, 34, 32, 28, 27, 24, 24)
+tolerated abs diff
+unsafe abs diff 27 32 True True
+(94, 92, 89, 85, 84, 80)
+tolerated abs diff
+unsafe abs diff 84 89 True True
+(61, 60, 56, 54, 51, 49, 48, 42)
+tolerated abs diff
+unsafe abs diff 54 60 True True
+(50, 48, 42, 41, 39)
+tolerated abs diff
+unsafe abs diff 41 48 True True
+(92, 90, 89, 87, 80, 82)
+tolerated abs diff
+unsafe abs diff 82 87 True True
+(57, 54, 48, 45, 44, 41, 39, 39)
+tolerated abs diff
+unsafe abs diff 45 54 True True
+(67, 66, 64, 59, 57, 53)
+tolerated abs diff
+unsafe abs diff 57 64 True True
+(49, 47, 45, 38, 36, 35, 30)
+tolerated abs diff
+unsafe abs diff 36 45 True True
+(97, 98, 95, 93, 90, 89, 87, 86)
+tolerated wrong sign
+unsafe wrong sign 93 98 True False
+(24, 26, 24, 21, 24)
+tolerated wrong sign
+unsafe wrong sign 21 26 True False
+(37, 39, 37, 36, 33, 30, 30)
+tolerated wrong sign
+unsafe wrong sign 36 39 True False
+(61, 63, 60, 59, 58, 54)
+tolerated wrong sign
+unsafe wrong sign 59 63 True False
+(63, 66, 64, 62, 56)
+tolerated wrong sign
+unsafe wrong sign 62 66 True False
+(68, 71, 70, 72, 71, 70)
+tolerated wrong sign
+unsafe same level 71 71 False False
+(88, 89, 92, 91, 89, 91)
+tolerated wrong sign
+unsafe wrong sign 89 92 True False
+(28, 29, 28, 27, 30, 28, 28)
+tolerated wrong sign
+unsafe wrong sign 27 29 True False
+(21, 22, 24, 22, 20, 19, 15)
+tolerated wrong sign
+unsafe wrong sign 20 24 True False
+(91, 92, 95, 92, 85)
+tolerated wrong sign
+unsafe wrong sign 85 95 True False
+(68, 71, 70, 69, 68, 68, 66, 63)
+tolerated wrong sign
+unsafe wrong sign 69 71 True False
+(73, 76, 73, 72, 70, 67, 67, 70)
+tolerated wrong sign
+unsafe wrong sign 72 76 True False
+(38, 41, 38, 38, 37, 37)
+tolerated wrong sign
+unsafe wrong sign 38 41 True False
+(71, 73, 72, 72, 71, 68, 65, 61)
+tolerated wrong sign
+unsafe wrong sign 72 73 True False
+(17, 19, 16, 15, 15, 14, 7)
+tolerated wrong sign
+unsafe wrong sign 15 19 True False
+(38, 40, 37, 35, 34, 30, 28, 27)
+tolerated wrong sign
+unsafe wrong sign 35 40 True False
+(11, 12, 10, 8, 4, 6)
+tolerated wrong sign
+unsafe wrong sign 8 12 True False
+(89, 92, 91, 88, 84, 81, 81)
+tolerated wrong sign
+unsafe wrong sign 88 92 True False
+(80, 81, 79, 76, 72, 68)
+tolerated wrong sign
+unsafe wrong sign 76 81 True False
+(51, 52, 50, 48, 44, 39)
+tolerated wrong sign
+unsafe wrong sign 48 52 True False
+(35, 37, 34, 27, 25)
+tolerated wrong sign
+unsafe wrong sign 27 37 True False
+(60, 63, 61, 56, 55, 58)
+tolerated wrong sign
+unsafe wrong sign 56 63 True False
+(47, 48, 43, 42, 39, 39)
+tolerated wrong sign
+unsafe wrong sign 42 48 True False
+(24, 26, 19, 17, 13)
+tolerated wrong sign
+unsafe wrong sign 17 26 True False
+(68, 69, 67, 62, 60, 53)
+tolerated wrong sign
+unsafe wrong sign 62 69 True False
+(95, 95, 94, 92, 89)
+tolerated equal values
+unsafe abs diff 89 95 True None
+(80, 80, 77, 76, 74, 72, 70, 72)
+tolerated equal values
+unsafe abs diff 76 80 True None
+(81, 81, 78, 75, 75)
+tolerated equal values
+unsafe abs diff 75 81 True None
+(99, 99, 98, 97, 96, 95, 93, 89)
+tolerated equal values
+unsafe abs diff 95 99 True None
+(16, 16, 14, 13, 12, 7)
+tolerated equal values
+unsafe abs diff 12 16 True None
+(98, 98, 95, 92, 90, 93, 92)
+tolerated equal values
+unsafe abs diff 92 98 True None
+(92, 92, 95, 92, 89, 92)
+tolerated equal values
+unsafe same level 92 92 False None
+(41, 41, 38, 41, 40, 40)
+tolerated equal values
+unsafe same level 41 41 False None
+(50, 50, 48, 50, 46)
+tolerated equal values
+unsafe same level 50 50 False None
+(21, 21, 22, 19, 16, 14, 9)
+tolerated equal values
+unsafe abs diff 16 21 True None
+(49, 49, 49, 47, 44, 41, 38)
+tolerated equal values
+unsafe same level 49 49 False None
+(74, 74, 72, 71, 71, 72)
+tolerated equal values
+safe True
+(10, 10, 8, 6, 3, 3, 2, 2)
+tolerated equal values
+unsafe abs diff 6 10 True None
+(71, 71, 69, 66, 65, 65, 63, 59)
+tolerated equal values
+unsafe abs diff 66 71 True None
+(81, 81, 81, 80, 75)
+tolerated equal values
+unsafe same level 81 81 False None
+(20, 20, 16, 14, 13)
+tolerated equal values
+unsafe abs diff 16 20 True None
+(46, 46, 42, 40, 39, 38, 39)
+tolerated equal values
+unsafe abs diff 42 46 True None
+(9, 9, 8, 7, 3, 3)
+tolerated equal values
+unsafe abs diff 3 9 True None
+(76, 76, 72, 71, 69, 68, 67, 63)
+tolerated equal values
+unsafe abs diff 72 76 True None
+(47, 47, 46, 44, 40, 39, 34)
+tolerated equal values
+unsafe abs diff 40 47 True None
+(25, 25, 22, 21, 16, 14)
+tolerated equal values
+unsafe abs diff 21 25 True None
+(78, 78, 72, 71, 68, 67, 70)
+tolerated equal values
+unsafe abs diff 72 78 True None
+(26, 26, 20, 17, 17)
+tolerated equal values
+unsafe abs diff 20 26 True None
+(21, 21, 14, 11, 10, 6)
+tolerated equal values
+unsafe abs diff 14 21 True None
+(63, 63, 56, 55, 53, 51, 50, 43)
+tolerated equal values
+unsafe abs diff 56 63 True None
+(95, 91, 90, 88, 86, 84, 83, 81)
+tolerated abs diff
+unsafe abs diff 90 95 True None
+(54, 50, 48, 46, 43, 45)
+tolerated abs diff
+unsafe abs diff 48 54 True None
+(84, 80, 78, 76, 76)
+tolerated abs diff
+unsafe abs diff 78 84 True None
+(44, 40, 37, 36, 34, 30)
+tolerated abs diff
+unsafe abs diff 37 44 True None
+(32, 28, 26, 25, 23, 18)
+tolerated abs diff
+unsafe abs diff 26 32 True None
+(29, 25, 24, 23, 24, 22, 21, 20)
+tolerated abs diff
+unsafe abs diff 24 29 True None
+(77, 73, 70, 67, 70, 68, 69)
+tolerated abs diff
+unsafe abs diff 70 77 True None
+(60, 56, 58, 56, 54, 53, 51, 51)
+tolerated abs diff
+unsafe abs diff 56 60 True None
+(92, 88, 85, 84, 86, 82)
+tolerated abs diff
+unsafe abs diff 85 92 True None
+(62, 58, 55, 53, 52, 54, 53, 46)
+tolerated abs diff
+unsafe abs diff 55 62 True None
+(45, 41, 41, 38, 37, 35)
+tolerated abs diff
+unsafe abs diff 41 45 True None
+(38, 34, 31, 31, 33)
+tolerated abs diff
+unsafe abs diff 31 38 True None
+(71, 67, 65, 65, 65)
+tolerated abs diff
+unsafe abs diff 65 71 True None
+(27, 23, 20, 18, 15, 15, 11)
+tolerated abs diff
+unsafe abs diff 20 27 True None
+(82, 78, 78, 75, 74, 71, 70, 64)
+tolerated abs diff
+unsafe abs diff 78 82 True None
+(80, 76, 74, 72, 70, 66, 65)
+tolerated abs diff
+unsafe abs diff 74 80 True None
+(56, 52, 51, 47, 46, 43, 41, 44)
+tolerated abs diff
+unsafe abs diff 51 56 True None
+(71, 67, 65, 61, 61)
+tolerated abs diff
+unsafe abs diff 65 71 True None
+(81, 77, 74, 73, 69, 65)
+tolerated abs diff
+unsafe abs diff 74 81 True None
+(98, 94, 92, 91, 88, 84, 79)
+tolerated abs diff
+unsafe abs diff 92 98 True None
+(41, 37, 35, 30, 27)
+tolerated abs diff
+unsafe abs diff 35 41 True None
+(88, 84, 81, 80, 75, 77)
+tolerated abs diff
+unsafe abs diff 81 88 True None
+(34, 30, 27, 25, 24, 19, 19)
+tolerated abs diff
+unsafe abs diff 27 34 True None
+(54, 50, 48, 45, 43, 38, 36, 32)
+tolerated abs diff
+unsafe abs diff 48 54 True None
+(64, 60, 59, 54, 52, 45)
+tolerated abs diff
+unsafe abs diff 59 64 True None
+(93, 88, 86, 85, 82)
+tolerated abs diff
+unsafe abs diff 86 93 True None
+(54, 47, 46, 43, 46)
+tolerated abs diff
+unsafe abs diff 46 54 True None
+(26, 21, 19, 18, 18)
+tolerated abs diff
+unsafe abs diff 19 26 True None
+(24, 18, 15, 13, 12, 9, 6, 2)
+tolerated abs diff
+unsafe abs diff 15 24 True None
+(73, 68, 66, 63, 60, 57, 54, 49)
+tolerated abs diff
+unsafe abs diff 66 73 True None
+(62, 56, 55, 56, 54, 51, 50)
+tolerated abs diff
+unsafe abs diff 55 62 True None
+(65, 58, 56, 59, 57, 54, 52, 55)
+tolerated abs diff
+unsafe abs diff 56 65 True None
+(92, 87, 86, 85, 82, 85, 85)
+tolerated abs diff
+unsafe abs diff 86 92 True None
+(15, 9, 7, 10, 6)
+tolerated abs diff
+unsafe abs diff 7 15 True None
+(73, 66, 63, 62, 61, 64, 59)
+tolerated abs diff
+unsafe abs diff 63 73 True None
+(77, 71, 70, 67, 67, 66, 63)
+tolerated abs diff
+unsafe abs diff 70 77 True None
+(65, 60, 57, 55, 55, 53, 56)
+tolerated abs diff
+unsafe abs diff 57 65 True None
+(76, 70, 70, 68, 66, 65, 62, 62)
+tolerated abs diff
+unsafe abs diff 70 76 True None
+(37, 30, 28, 28, 27, 25, 22, 18)
+tolerated abs diff
+unsafe abs diff 28 37 True None
+(43, 38, 35, 35, 32, 25)
+tolerated abs diff
+unsafe abs diff 35 43 True None
+(93, 87, 83, 81, 79, 76)
+tolerated abs diff
+unsafe abs diff 83 93 True None
+(72, 66, 62, 61, 60, 57, 60)
+tolerated abs diff
+unsafe abs diff 62 72 True None
+(78, 73, 69, 67, 67)
+tolerated abs diff
+unsafe abs diff 69 78 True None
+(96, 90, 87, 83, 79)
+tolerated abs diff
+unsafe abs diff 87 96 True None
+(53, 46, 45, 41, 35)
+tolerated abs diff
+unsafe abs diff 45 53 True None
+(74, 68, 66, 61, 58)
+tolerated abs diff
+unsafe abs diff 66 74 True None
+(96, 90, 84, 81, 79, 76, 79)
+tolerated abs diff
+unsafe abs diff 84 96 True None
+(90, 83, 82, 77, 76, 76)
+tolerated abs diff
+unsafe abs diff 82 90 True None
+(98, 92, 86, 83, 82, 78)
+tolerated abs diff
+unsafe abs diff 86 98 True None
+(63, 58, 55, 54, 52, 45, 44, 38)
+tolerated abs diff
+unsafe abs diff 55 63 True None
+(66, 71, 71, 72, 74, 75, 77)
+tolerated abs diff
+unsafe abs diff 71 66 False None
+(6, 4, 6, 10, 13, 14, 14)
+tolerated wrong sign
+unsafe wrong sign 10 4 False True
+(42, 40, 39, 36, 31, 25)
+tolerated abs diff
+unsafe abs diff 25 36 True True
+(45, 44, 46, 45, 44, 43, 42, 38)
+tolerated wrong sign
+unsafe wrong sign 45 44 False True
+(37, 39, 40, 43, 45, 46, 46)
+tolerated equal values
+safe True
+(15, 11, 8, 7, 3, 1, 3)
+tolerated abs diff
+unsafe abs diff 8 15 True None
+(53, 53, 52, 51, 47)
+tolerated equal values
+unsafe abs diff 47 53 True None
+(24, 19, 18, 13, 7)
+tolerated abs diff
+unsafe abs diff 18 24 True None
+(39, 35, 34, 33, 30, 27, 20)
+tolerated abs diff
+unsafe abs diff 34 39 True None
+(32, 32, 30, 26, 29)
+tolerated equal values
+unsafe abs diff 26 32 True None
+(75, 75, 80, 83, 85, 88, 88)
+tolerated equal values
+unsafe abs diff 80 75 False None
+(26, 26, 30, 32, 33, 34, 37)
+tolerated equal values
+unsafe abs diff 30 26 False None
+(46, 46, 48, 47, 42)
+tolerated equal values
+unsafe abs diff 42 46 True None
+(46, 41, 39, 36, 32, 31, 27)
+tolerated abs diff
+unsafe abs diff 39 46 True None
+(91, 88, 86, 83, 80, 73)
+tolerated abs diff
+safe True
+(71, 67, 66, 63, 59)
+tolerated abs diff
+unsafe abs diff 66 71 True None
+(41, 45, 47, 46, 47, 50, 51)
+tolerated abs diff
+unsafe abs diff 47 41 False None
+(43, 37, 35, 36, 32)
+tolerated abs diff
+unsafe abs diff 35 43 True None
+(8, 9, 10, 10, 12, 13, 15, 20)
+tolerated equal values
+unsafe abs diff 15 10 False False
+(28, 28, 29, 30, 30, 31, 34, 38)
+tolerated equal values
+unsafe abs diff 34 28 False None
+(66, 69, 66, 63, 65, 66)
+tolerated wrong sign
+unsafe wrong sign 63 69 True False
+(98, 94, 91, 87, 86, 86)
+tolerated abs diff
+unsafe abs diff 91 98 True None
+(35, 34, 33, 33, 32)
+tolerated equal values
+safe True
+(9, 6, 6, 7, 8, 13)
+tolerated equal values
+unsafe wrong sign 7 6 False True
+(7, 10, 12, 15, 17, 19, 24, 24)
+tolerated abs diff
+unsafe abs diff 24 19 False False
+(52, 48, 51, 49, 43)
+tolerated abs diff
+unsafe abs diff 43 52 True None
+(97, 98, 91, 88, 85, 83, 82, 78)
+tolerated wrong sign
+unsafe wrong sign 88 98 True False
+(79, 79, 78, 75, 70, 70)
+tolerated equal values
+unsafe abs diff 75 79 True None
+(47, 43, 40, 39, 36, 32, 28)
+tolerated abs diff
+unsafe abs diff 40 47 True None
+(11, 8, 7, 4, 1, 1)
+tolerated equal values
+safe True
+(37, 36, 39, 39, 41, 42, 45, 47)
+tolerated wrong sign
+unsafe wrong sign 39 36 False True
+(58, 58, 58, 57, 54, 53, 50, 48)
+tolerated equal values
+unsafe same level 58 58 False None
+(25, 25, 24, 23, 18)
+tolerated equal values
+unsafe abs diff 18 25 True None
+(49, 47, 44, 38, 37, 36, 34, 36)
+tolerated abs diff
+unsafe abs diff 37 44 True True
+(33, 32, 37, 38, 40, 42, 43)
+tolerated wrong sign
+unsafe wrong sign 38 32 False True
+(12, 19, 24, 25, 26)
+tolerated abs diff
+unsafe abs diff 24 12 False None
+(38, 40, 41, 42, 45, 46, 49, 55)
+tolerated abs diff
+safe True
+(64, 60, 57, 56, 56, 54, 51, 49)
+tolerated abs diff
+unsafe abs diff 57 64 True None
+(47, 47, 49, 52, 53, 60, 62, 67)
+tolerated equal values
+unsafe abs diff 52 47 False None
+(28, 31, 27, 24, 21, 19, 22)
+tolerated wrong sign
+unsafe wrong sign 24 31 True False
+(38, 45, 48, 51, 51, 56)
+tolerated abs diff
+unsafe abs diff 48 38 False None
+(73, 70, 70, 68, 64)
+tolerated equal values
+unsafe abs diff 64 70 True True
+(82, 82, 81, 79, 77, 72, 73)
+tolerated equal values
+unsafe abs diff 77 82 True None
+(43, 45, 48, 50, 53, 56, 58, 59)
+safe False
+(60, 63, 64, 67, 68, 69, 72)
+safe False
+(72, 74, 77, 79, 81, 84)
+safe False
+(60, 57, 55, 54, 52, 50, 47)
+safe False
+(57, 54, 52, 50, 47, 44)
+safe False
+(8, 9, 11, 14, 15)
+safe False
+(82, 79, 77, 74, 71, 68, 66)
+safe False
+(34, 31, 30, 29, 26, 23, 21)
+safe False
+(10, 13, 14, 17, 18, 21, 22, 23)
+safe False
+(79, 77, 76, 73, 71, 70)
+safe False
+(87, 89, 92, 93, 96, 97)
+safe False
+(82, 81, 80, 78, 77, 76, 73, 72)
+safe False
+(22, 19, 16, 14, 13)
+safe False
+(79, 80, 82, 83, 84, 86, 88)
+safe False
+(76, 78, 80, 82, 83)
+safe False
+(15, 18, 19, 20, 23, 24, 27)
+safe False
+(65, 67, 68, 71, 73, 75, 77, 79)
+safe False
+(42, 41, 40, 39, 38)
+safe False
+(33, 34, 37, 38, 41, 44, 46)
+safe False
+(69, 72, 75, 76, 78, 81)
+safe False
+(90, 87, 86, 85, 83)
+safe False
+(57, 56, 54, 53, 50, 49, 47, 45)
+safe False
+(67, 65, 62, 61, 59, 56, 55)
+safe False
+(23, 25, 27, 29, 32, 33)
+safe False
+(70, 67, 66, 63, 60, 57, 55)
+safe False
+(90, 88, 85, 83, 82, 79, 76, 73)
+safe False
+(91, 88, 86, 83, 80, 79, 76, 73)
+safe False
+(37, 35, 32, 31, 28, 26, 25, 22)
+safe False
+(22, 23, 25, 27, 28, 29, 32)
+safe False
+(96, 93, 90, 89, 88)
+safe False
+(59, 57, 56, 55, 54)
+safe False
+(38, 37, 35, 32, 31)
+safe False
+(11, 10, 7, 6, 5, 3)
+safe False
+(51, 50, 48, 45, 42, 40, 38, 35)
+safe False
+(69, 68, 65, 64, 63, 61, 59, 58)
+safe False
+(45, 42, 39, 37, 36, 34, 32)
+safe False
+(3, 4, 7, 8, 9)
+safe False
+(43, 46, 48, 49, 50, 53, 54, 55)
+safe False
+(35, 37, 40, 43, 46)
+safe False
+(46, 44, 41, 38, 36, 33)
+safe False
+(15, 13, 10, 7, 5, 2)
+safe False
+(13, 11, 10, 9, 8, 7, 6)
+safe False
+(40, 43, 46, 47, 48, 51)
+safe False
+(70, 71, 74, 76, 79)
+safe False
+(59, 58, 56, 55, 52, 49)
+safe False
+(86, 89, 91, 92, 95, 97, 98)
+safe False
+(85, 88, 90, 92, 93)
+safe False
+(63, 62, 59, 57, 55, 52, 50)
+safe False
+(77, 74, 72, 70, 68, 67)
+safe False
+(50, 47, 45, 44, 41, 38, 36)
+safe False
+(82, 84, 85, 88, 90, 91, 94, 97)
+safe False
+(13, 15, 16, 18, 20, 23, 26, 28)
+safe False
+(61, 63, 65, 68, 70, 72, 75, 76)
+safe False
+(80, 81, 82, 83, 85)
+safe False
+(73, 71, 68, 67, 66, 65, 62)
+safe False
+(45, 48, 50, 53, 56, 58, 59, 62)
+safe False
+(9, 10, 13, 16, 19, 22, 23, 26)
+safe False
+(40, 39, 36, 34, 31, 30, 27, 25)
+safe False
+(90, 88, 86, 83, 82, 81)
+safe False
+(29, 31, 33, 35, 38, 41, 44)
+safe False
+(57, 54, 53, 51, 49, 46, 43)
+safe False
+(89, 87, 85, 84, 83, 82)
+safe False
+(43, 41, 38, 35, 34, 33, 31, 30)
+safe False
+(26, 23, 22, 21, 18, 16, 14)
+safe False
+(80, 81, 82, 84, 87)
+safe False
+(42, 43, 45, 48, 50, 51, 53, 55)
+safe False
+(15, 12, 10, 8, 5, 4)
+safe False
+(36, 34, 31, 29, 28, 27)
+safe False
+(15, 13, 12, 9, 6, 3)
+safe False
+(54, 51, 50, 49, 47)
+safe False
+(40, 43, 46, 47, 48, 51, 53)
+safe False
+(38, 36, 33, 32, 31, 28, 26, 23)
+safe False
+(65, 64, 61, 59, 57, 55)
+safe False
+(84, 83, 81, 79, 78, 77)
+safe False
+(12, 15, 16, 18, 20)
+safe False
+(37, 38, 40, 43, 46, 48, 50)
+safe False
+(20, 21, 22, 23, 24, 25, 27)
+safe False
+(82, 83, 84, 87, 89)
+safe False
+(30, 32, 34, 37, 39, 42, 45, 48)
+safe False
+(87, 85, 83, 80, 77, 74)
+safe False
+(65, 66, 69, 70, 71)
+safe False
+(76, 79, 80, 83, 86, 87)
+safe False
+(5, 8, 11, 14, 15)
+safe False
+(6, 8, 10, 13, 16, 19)
+safe False
+(18, 15, 14, 12, 10)
+safe False
+(71, 72, 75, 77, 79, 81, 82, 83)
+safe False
+(33, 30, 28, 26, 24, 22)
+safe False
+(67, 68, 69, 71, 72, 73)
+safe False
+(89, 90, 93, 94, 97)
+safe False
+(25, 22, 21, 19, 16, 13)
+safe False
+(70, 68, 66, 64, 63, 60)
+safe False
+(26, 27, 29, 31, 32, 35, 38)
+safe False
+(22, 24, 26, 27, 29, 32, 33, 34)
+safe False
+(25, 27, 29, 30, 33, 36, 39)
+safe False
+(56, 53, 51, 50, 48, 47, 46)
+safe False
+(20, 22, 23, 24, 26, 27, 28)
+safe False
+(24, 27, 29, 31, 34)
+safe False
+(86, 83, 81, 78, 76, 75, 72, 71)
+safe False
+(33, 35, 36, 39, 40, 41, 43)
+safe False
+(13, 14, 16, 19, 21, 23)
+safe False
+(64, 61, 58, 56, 54, 53, 51, 49)
+safe False
+(25, 28, 31, 33, 34, 36)
+safe False
+(79, 77, 75, 72, 69, 66, 65)
+safe False
+(85, 87, 90, 92, 93, 95, 96)
+safe False
+(40, 42, 44, 47, 49, 52, 54)
+safe False
+(39, 38, 35, 34, 33, 32, 29)
+safe False
+(29, 30, 33, 35, 38, 40, 42)
+safe False
+(96, 93, 92, 90, 88, 87, 85)
+safe False
+(50, 52, 53, 54, 57, 60)
+safe False
+(29, 28, 25, 22, 19, 17)
+safe False
+(55, 54, 53, 52, 50, 48)
+safe False
+(27, 26, 23, 20, 17, 16)
+safe False
+(60, 63, 65, 67, 70, 72, 73, 75)
+safe False
+(31, 28, 26, 24, 23, 22)
+safe False
+(50, 47, 46, 44, 43)
+safe False
+(30, 31, 33, 36, 37, 40, 43)
+safe False
+(79, 78, 76, 74, 73, 70, 67)
+safe False
+(51, 52, 53, 56, 58, 60, 61)
+safe False
+(83, 82, 79, 76, 74, 72, 71, 68)
+safe False
+(33, 34, 35, 37, 40, 42, 45)
+safe False
+(81, 82, 85, 86, 87, 90)
+safe False
+(94, 93, 92, 91, 89, 87, 85, 83)
+safe False
+(12, 14, 16, 19, 21, 23)
+safe False
+(3, 5, 8, 11, 13, 15, 17)
+safe False
+(82, 80, 77, 75, 74)
+safe False
+(28, 30, 31, 34, 36, 38)
+safe False
+(83, 80, 78, 77, 76, 75, 74, 71)
+safe False
+(47, 49, 52, 54, 56, 59, 60)
+safe False
+(45, 43, 40, 39, 38, 35, 33, 30)
+safe False
+(9, 7, 6, 5, 4, 3)
+safe False
+(15, 18, 21, 22, 24, 27)
+safe False
+(19, 21, 24, 27, 30, 32, 33)
+safe False
+(30, 27, 25, 22, 19)
+safe False
+(38, 37, 34, 31, 29, 27, 24, 22)
+safe False
+(74, 77, 79, 81, 82, 83, 85, 86)
+safe False
+(81, 79, 78, 77, 75, 73)
+safe False
+(52, 51, 50, 49, 47, 44, 43)
+safe False
+(15, 12, 9, 7, 4, 2, 1)
+safe False
+(32, 29, 26, 23, 21, 18, 15)
+safe False
+(6, 7, 10, 12, 13, 16)
+safe False
+(22, 24, 25, 27, 28, 31, 33)
+safe False
+(9, 12, 15, 16, 19, 21, 23)
+safe False
+(23, 21, 20, 19, 18, 15, 12, 10)
+safe False
+(50, 52, 55, 58, 59)
+safe False
+(2, 3, 6, 8, 10, 12, 15, 18)
+safe False
+(94, 91, 88, 87, 84)
+safe False
+(54, 52, 51, 49, 48, 46, 45)
+safe False
+(82, 85, 86, 89, 90)
+safe False
+(21, 19, 17, 15, 14, 11)
+safe False
+(53, 56, 59, 62, 64)
+safe False
+(3, 6, 8, 11, 13, 14)
+safe False
+(83, 85, 88, 90, 92)
+safe False
+(60, 57, 55, 54, 52, 49, 48)
+safe False
+(77, 74, 73, 70, 68, 66, 63)
+safe False
+(22, 25, 27, 30, 31, 33, 34)
+safe False
+(31, 33, 34, 35, 36, 39)
+safe False
+(84, 83, 81, 80, 79, 78)
+safe False
+(20, 23, 26, 27, 28, 31, 32, 34)
+safe False
+(15, 16, 18, 19, 22, 25, 26)
+safe False
+(99, 97, 96, 94, 92, 90)
+safe False
+(73, 72, 70, 68, 67, 66, 63, 61)
+safe False
+(65, 63, 62, 61, 58, 56, 55, 52)
+safe False
+(78, 79, 81, 84, 85, 88, 91, 92)
+safe False
+(74, 71, 68, 67, 65)
+safe False
+(46, 49, 51, 53, 56, 57)
+safe False
+(21, 22, 23, 24, 25, 26)
+safe False
+(33, 35, 38, 40, 41, 44, 47)
+safe False
+(88, 91, 92, 93, 96)
+safe False
+(25, 28, 30, 33, 35)
+safe False
+(89, 92, 95, 96, 97)
+safe False
+(92, 90, 88, 85, 82, 79, 78, 77)
+safe False
+(77, 80, 81, 84, 86, 89, 90, 92)
+safe False
+(74, 76, 78, 80, 81, 83, 84)
+safe False
+(75, 74, 71, 69, 68, 65)
+safe False
+(17, 16, 13, 10, 9)
+safe False
+(10, 12, 15, 18, 19)
+safe False
+(47, 49, 52, 54, 55)
+safe False
+(91, 88, 87, 85, 84)
+safe False
+(52, 51, 49, 48, 46, 43, 40, 37)
+safe False
+(86, 84, 83, 81, 78, 75)
+safe False
+(11, 13, 15, 18, 20, 21, 23, 25)
+safe False
+(94, 93, 91, 88, 86, 84, 81)
+safe False
+(71, 70, 67, 65, 64)
+safe False
+(41, 44, 45, 47, 48)
+safe False
+(77, 80, 82, 84, 87)
+safe False
+(98, 95, 93, 92, 90, 88)
+safe False
+(76, 79, 81, 82, 84, 85, 87, 90)
+safe False
+(52, 50, 49, 47, 44, 41, 39)
+safe False
+(84, 85, 88, 89, 91, 94, 97, 98)
+safe False
+(76, 79, 80, 81, 83, 84, 86, 88)
+safe False
+(21, 23, 26, 27, 29)
+safe False
+(94, 93, 90, 87, 85, 84, 81)
+safe False
+(76, 77, 80, 83, 85, 88, 90, 93)
+safe False
+(56, 53, 50, 47, 44, 43, 41, 40)
+safe False
+(78, 81, 82, 85, 87)
+safe False
+(86, 87, 89, 90, 93)
+safe False
+(92, 90, 89, 88, 86, 85)
+safe False
+(45, 44, 43, 42, 39)
+safe False
+(75, 72, 71, 69, 66, 64, 62)
+safe False
+(75, 73, 71, 69, 67, 65, 63, 60)
+safe False
+(14, 16, 18, 19, 20, 21)
+safe False
+(77, 74, 72, 70, 69, 67)
+safe False
+(46, 45, 42, 41, 39, 37, 36, 35)
+safe False
+(20, 18, 16, 13, 10, 7, 6, 3)
+safe False
+(64, 66, 69, 71, 72, 75)
+safe False
+(16, 18, 21, 23, 24, 25, 26, 28)
+safe False
+(61, 59, 57, 56, 54, 52, 50)
+safe False
+(44, 45, 48, 51, 54, 57, 58, 60)
+safe False
+(25, 28, 31, 32, 35)
+safe False
+(79, 78, 76, 73, 71, 70)
+safe False
+(64, 65, 68, 71, 73, 74)
+safe False
+(58, 60, 63, 64, 67)
+safe False
+(33, 35, 36, 37, 39, 41)
+safe False
+266
