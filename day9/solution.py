@@ -4,7 +4,7 @@ def process(inp: str) -> int:
     empty_sector_cursor = 1
     last_file_cursor = len(disk) - 1
 
-    result_cursor = 2
+    result_cursor = disk[0]
     checksum = 0
 
     while empty_sector_cursor < last_file_cursor:
@@ -47,7 +47,6 @@ def process(inp: str) -> int:
             )
             result_cursor += last_file_size
             last_file_cursor -= 2
-
     return checksum
 
 
